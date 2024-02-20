@@ -1,6 +1,6 @@
 # Magicblock blog
 
-Magicblock uses as blog the following a Jekyll Theme by WowThemes.net
+Magicblock uses as blog the following Jekyll Theme by WowThemes.net
 
 ## Jekyll Theme - Mundana by WowThemes.net
 
