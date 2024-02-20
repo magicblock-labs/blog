@@ -1,6 +1,6 @@
 # Magicblock blog
 
-Magicblock uses as blog the following Jekyll Theme by Mundana by WowThemes.net
+Magicblock uses as blog the following a Jekyll Theme by WowThemes.net
 
 ## Jekyll Theme - Mundana by WowThemes.net
 
@@ -9,13 +9,11 @@ Magicblock uses as blog the following Jekyll Theme by Mundana by WowThemes.net
 [Buy me a coffe](https://www.wowthemes.net/donate/) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/mundana-theme-jekyll/) &nbsp; | &nbsp; 
 [WordPress version](https://www.wowthemes.net/themes/mundana-wordpress/) 
 
-![mundana jekyll theme screenshot](assets/images/screenshot.jpg)
-
 ### Documentation
 
 [How to install & use](https://bootstrapstarter.com/bootstrap-templates/mundana-theme-jekyll/)
 
-### Contribute to Mundana repository
+### Contribute to the repository
 
 1. In the top-right corner of this page, click **Fork**.
 
@@ -44,12 +42,4 @@ That's it! Soon I'll be merging your changes into the master branch of this proj
 
 ### Copyright
 
-Copyright (C) 2019 WowThemes.net.
-
-Theme designed and developed by [Sal](https://www.wowthemes.net), *free* under MIT license. 
-
-<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
-### Live Demo
-
-[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/)
+Copyright (C) 2024 Magicblock
