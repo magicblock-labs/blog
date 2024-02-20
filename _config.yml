@@ -18,10 +18,10 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
+    Magicblock:
       name:           Magicblock
       site:           https://www.magicblock.gg
-      avatar:         /assets/images/avatar1.png
+      avatar:         assets/images/avatar1.png
       bio:            ""
       email:          ""
       twitter:        https://twitter.com/magicblock
@@ -35,8 +35,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+      author: Magicblock
+      avatar: assets/images/avatar1.jpg
       
   # all pages
   - scope:
