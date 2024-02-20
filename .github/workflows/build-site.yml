@@ -1,0 +1,20 @@
+name: Build and deploy Jekyll site to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  github-pages:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2.2' # Not needed with a .ruby-version file
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+      - uses: helaili/jekyll-action@master
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          jekyll_build_options: "--config _config.yml,_config_base.yml"
