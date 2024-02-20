@@ -26,7 +26,7 @@ Despite all the buzz, a notable challenge is the poor user experience. Due to th
 
 Gum has always been at the forefront of simplifying the UX for developers and end-users alike and Solana is perfectly suited for this. Its speed and scalability allow for real-time, interactive gameplay without the worry of network congestion or high transaction fees.
 
-Session Keys act essentially as secondary signers in the game. They are used to can create ephemeral keypairs and issue session tokens to users, meant for frequent interactions but for a specific session of play.
+Session Keys act essentially as secondary signers in the game. They are used to create ephemeral keypairs and issue session tokens to users, meant for frequent interactions but for a specific session of play.
 
 With Session Keys integrated into the Solana Unity SDK, game developers can now build on-chain interactions within a game without having to worry about the UX problems and constant wallet popups that they come with. This is a huge leap in the overall gameplay experience.
 
