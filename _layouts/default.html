@@ -33,7 +33,7 @@
 
 </head>
 
-<body class="{% if page.url == "/" %} homefirstpage {% endif %}">
+<body class="{% if page.url == "/" %} homefirstpage {% endif %} dark-mode">
 
     <!-- Navbar -->
     <nav id="MagicMenu" class="topnav navbar navbar-expand-lg navbar-light bg-white fixed-top">
@@ -50,6 +50,14 @@
                {% include menu-header.html %}
             </ul>
             <ul class="navbar-nav ml-auto d-flex align-items-center">
+                <!-- Toggle switch button -->
+                <label class="switch">
+                    <input type="checkbox" id="themeToggle">
+                    <span class="slider round">
+                    <i class="fas fa-moon moon-icon"></i>
+                    <i class="fas fa-sun sun-icon"></i>
+                    </span>
+                </label>
                 {% include search-lunr.html %}
             </ul>
         </div>

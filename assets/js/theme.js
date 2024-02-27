@@ -134,3 +134,31 @@ $(function() {
     }
   }
 });
+
+function toggleDarkMode() {
+    const isDarkMode = document.body.classList.toggle('dark-mode');
+    localStorage.setItem('theme', isDarkMode ? 'dark' : 'light');
+}
+
+// Function to apply the theme based on the OS preference or user's saved preference
+function applyThemePreference() {
+    const userPrefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+    const savedTheme = localStorage.getItem('theme');
+    const useDark = savedTheme ? savedTheme === 'dark' : userPrefersDark;
+    document.body.classList.toggle('dark-mode', useDark);
+    // Update the toggle switch position
+    const themeToggle = document.getElementById('themeToggle');
+    if (themeToggle) {
+        themeToggle.checked = !useDark;
+    }
+}
+
+// Apply theme preference on page load
+document.addEventListener('DOMContentLoaded', applyThemePreference);
+
+document.getElementById('themeToggle').addEventListener('change', function() {
+    toggleDarkMode();
+});
+
+// Apply theme preference as soon as the script loads
+applyThemePreference();
