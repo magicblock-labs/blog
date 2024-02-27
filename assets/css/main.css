@@ -8529,6 +8529,24 @@ body.dark-mode .navbar-light .navbar-nav .nav-link {
   transition: .4s;
 }
 
+body.dark-mode .modal-dialog{
+  filter: invert(100%);
+  color: whitesmoke !important;
+}
+
+body.dark-mode .modal-header{
+  filter: invert(100%);
+  color: whitesmoke !important;
+}
+
+body.dark-mode .modal-footer button{
+  filter: invert(100%);
+}
+
+body.dark-mode .modal-title{
+  color: whitesmoke !important;
+}
+
 .dark-mode { 
   --blue: #5a00e0;
   --indigo: #3a2062;
