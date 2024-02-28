@@ -144,7 +144,7 @@ function toggleDarkMode() {
 function applyThemePreference() {
     const userPrefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
     const savedTheme = localStorage.getItem('theme');
-    const useDark = savedTheme ? savedTheme === 'dark' : userPrefersDark;
+    const useDark = savedTheme ? savedTheme !== 'light' : userPrefersDark;
     document.body.classList.toggle('dark-mode', useDark);
     // Update the toggle switch position
     const themeToggle = document.getElementById('themeToggle');

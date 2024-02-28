@@ -8534,6 +8534,11 @@ body.dark-mode .modal-dialog{
   color: whitesmoke !important;
 }
 
+body.dark-mode .navbar-toggler{
+  filter: invert(100%);
+  color: whitesmoke !important;
+}
+
 body.dark-mode .modal-header{
   filter: invert(100%);
   color: whitesmoke !important;
