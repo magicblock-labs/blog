@@ -3,7 +3,6 @@ layout: post
 title:  "Session Keys integrated into the Solana Unity SDK"
 categories: [ Infrastructure ]
 image: assets/images/gum.png
-tags: [featured]
 ---
 
 We are thrilled to announce that we have partnered up with [Gum](https://www.gum.fun/) and integrated [Session Keys](https://github.com/gumhq/Solana.Unity-SDK) into the Solana Unity SDK.
