@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title> | Magicblock</title>
+
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Magicblock | The Framework for on-chain games on Solana/SVM</title>
+<meta name="generator" content="Jekyll v4.3.3" />
+<meta property="og:title" content="Magicblock" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="The Framework for on-chain games on Solana/SVM" />
+<meta property="og:description" content="The Framework for on-chain games on Solana/SVM" />
+<link rel="canonical" href="https://blog.magicblock.gg/404/" />
+<meta property="og:url" content="https://blog.magicblock.gg/404/" />
+<meta property="og:site_name" content="Magicblock" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Magicblock" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"The Framework for on-chain games on Solana/SVM","headline":"Magicblock","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://blog.magicblock.gg/assets/images/magicblock_black.png"}},"url":"https://blog.magicblock.gg/404/"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/images/favicon.ico">
+
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+
+    <!-- Google Fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700" rel="stylesheet">
+
+    <!-- Bootstrap Modified -->
+    <link rel="stylesheet" href="/assets/css/main.css">
+
+    <!-- Theme Stylesheet -->
+    <link rel="stylesheet" href="/assets/css/theme.css">
+
+    <!-- Code Stylesheet -->
+    <link rel="stylesheet" href="/assets/css/codestyle.css">
+
+    <!-- Jquery on header to make sure everything works, the rest  of the scripts in footer for fast loading -->
+    <script
+    src="https://code.jquery.com/jquery-3.3.1.min.js"
+    integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+    crossorigin="anonymous"></script>
+
+    <!-- This goes before </head> closing tag, Google Analytics can be placed here --> 
+
+
+</head>
+
+<body class=" dark-mode">
+
+    <!-- Navbar -->
+    <nav id="MagicMenu" class="topnav navbar navbar-expand-lg navbar-light bg-white fixed-top">
+    <div class="container">
+        <!-- <a class="navbar-brand" href="/index.html"><strong>Magicblock</strong></a> -->
+        <a class="navbar-brand" href="/index.html">
+            <img src="/assets/images/magicblock_black.png" alt="Magicblock" class="mt-1 d-lg-block" style="max-height: 40px;">
+        </a>
+        <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="navbar-collapse collapse" id="navbarColor02" style="">
+            <ul class="navbar-nav mr-auto d-flex align-items-center">
+               <!--  Replace menu links here -->
+
+<li class="nav-item">
+<a class="nav-link" href="/index.html">Home</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="/categories.html">Categories</a>
+</li>
+
+            </ul>
+            <ul class="navbar-nav ml-auto d-flex align-items-center">
+                <!-- Toggle switch button -->
+                <label class="switch">
+                    <input type="checkbox" id="themeToggle">
+                    <span class="slider round">
+                    <i class="fas fa-moon moon-icon"></i>
+                    <i class="fas fa-sun sun-icon"></i>
+                    </span>
+                </label>
+                <script src="/assets/js/lunr.js"></script>
+
+<script>
+$(function() {
+    $("#lunrsearchresults").on('click', '#btnx', function () {
+        $('#lunrsearchresults').hide( 1000 );
+        $( "body" ).removeClass( "modal-open" );
+    });
+});
+    
+
+var documents = [{
+    "id": 0,
+    "url": "https://blog.magicblock.gg/404/",
+    "title": "",
+    "body": " 404 Page not found :(  The requested page could not be found. "
+    }, {
+    "id": 1,
+    "url": "https://blog.magicblock.gg/about.html",
+    "title": "About",
+    "body": ""
+    }, {
+    "id": 2,
+    "url": "https://blog.magicblock.gg/authors-list.html",
+    "title": "Authors",
+    "body": "{{page. title}}:     {% for author in site. authors %}                                         {{ author[1]. name }} :       (View Posts)      {{ author[1]. bio }}                          &nbsp;       &nbsp;                                    {% endfor %}  "
+    }, {
+    "id": 3,
+    "url": "https://blog.magicblock.gg/categories.html",
+    "title": "Categories",
+    "body": "          Categories          {% for category in site. categories %}     {{ category[0] }}:           {% assign pages_list = category[1] %}    {% for post in pages_list %}    {% if post. title != null %}     {% if group == null or group == post. group %}           {% include main-loop-card. html %}     {% endif %}    {% endif %}    {% endfor %}    {% assign pages_list = nil %}    {% assign group = nil %}    {% endfor %}                  {% include sidebar-featured. html %}          "
+    }, {
+    "id": 4,
+    "url": "https://blog.magicblock.gg/contact.html",
+    "title": "Contact",
+    "body": "  Please send your message to {{site. name}}. We will reply as soon as possible!   "
+    }, {
+    "id": 5,
+    "url": "https://blog.magicblock.gg/",
+    "title": "Blog",
+    "body": "  {% if page. url ==  /  %}            {% assign latest_post = site. posts[0] %}          &lt;div class= topfirstimage mt-2  style= background-image: url({% if latest_post. image contains  ://  %}{{ latest_post. image }}{% else %} {{site. baseurl}}/{{ latest_post. image}}{% endif %}); height: 200px;  background-size: cover;  background-repeat: no-repeat; background-position: center center; &gt;&lt;/div&gt;           {{ latest_post. title }}  :       {{ latest_post. excerpt | strip_html | strip_newlines | truncate: 136 }}               In         {% for category in latest_post. categories %}        {{ category }},         {% endfor %}                                {{ latest_post. date | date: '%b %d, %Y' }}                            {%- assign second_post = site. posts[1] -%}                        {% if second_post. image %}                         &lt;img class= w-100  src= {% if second_post. image contains  ://  %}{{ second_post. image }}{% else %}{{ second_post. image }}{% endif %}  alt= {{ second_post. title }} &gt;                        {% endif %}                                    {{ second_post. title }}          :                       In             {% for category in second_post. categories %}            {{ category }},             {% endfor %}                                                      {{ second_post. date | date: '%b %d, %Y' }}                                    {%- assign third_post = site. posts[2] -%}                        {% if third_post. image %}                         &lt;img class= w-100  src= {% if third_post. image contains  ://  %}{{ third_post. image }}{% else %}{{site. baseurl}}/{{ third_post. image }}{% endif %}  alt= {{ third_post. title }} &gt;                        {% endif %}                                    {{ third_post. title }}          :                       In             {% for category in third_post. categories %}            {{ category }},             {% endfor %}                                                      {{ third_post. date | date: '%b %d, %Y' }}                                    {%- assign fourth_post = site. posts[3] -%}                        {% if fourth_post. image %}                        &lt;img class= w-100  src= {% if fourth_post. image contains  ://  %}{{ fourth_post. image }}{% else %}{{site. baseurl}}/{{ fourth_post. image }}{% endif %}  alt= {{ fourth_post. title }} &gt;                        {% endif %}                                    {{ fourth_post. title }}          :                       In             {% for category in fourth_post. categories %}            {{ category }},             {% endfor %}                                                      {{ fourth_post. date | date: '%b %d, %Y' }}                                  {% for post in site. posts %} {% if post. tags contains  sticky  %}                    {{post. title}}                  {{ post. excerpt | strip_html | strip_newlines | truncate: 136 }}                 Read More            	             {% endif %}{% endfor %}  {% endif %}                All Stories:         {% for post in paginator. posts %}          {% include main-loop-card. html %}        {% endfor %}                   {% if paginator. total_pages &gt; 1 %}              {% if paginator. previous_page %}        &laquo; Prev       {% else %}        &laquo;       {% endif %}       {% for page in (1. . paginator. total_pages) %}        {% if page == paginator. page %}        {{ page }}        {% elsif page == 1 %}        {{ page }}        {% else %}        {{ page }}        {% endif %}       {% endfor %}       {% if paginator. next_page %}        Next &raquo;       {% else %}        &raquo;       {% endif %}            {% endif %}                     {% include sidebar-featured. html %}      "
+    }, {
+    "id": 6,
+    "url": "https://blog.magicblock.gg/privacy-policy.html",
+    "title": "Privacy Policy",
+    "body": "”{{site. name}}” takes your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used. Collection of Routine Information: This website track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitor to this website. The information is tracked for routine administration and maintenance purposes. Cookies: Where necessary, this website uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content. Advertisement and Other Third Parties: Advertising partners and other third parties may use cookies, scripts and/or web beacons to track visitor activities on this website in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This website has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to opt out of Google’s cookie usage. Links to Third Party Websites: We have included links on this website for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own. Security: The security of your personal information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. Changes To This Privacy Policy: This Privacy Policy is effective and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page. We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website. Contact Information: For any questions or concerns regarding the privacy policy, please contact us here. "
+    }, {
+    "id": 7,
+    "url": "https://blog.magicblock.gg/tags.html",
+    "title": "Tags",
+    "body": "          Tags          {% for tag in site. tags %}     {{ tag[0] }}:           {% assign pages_list = tag[1] %}    {% for post in pages_list %}    {% if post. title != null %}     {% if group == null or group == post. group %}           {% include main-loop-card. html %}     {% endif %}    {% endif %}    {% endfor %}    {% assign pages_list = nil %}    {% assign group = nil %}    {% endfor %}                  {% include sidebar-featured. html %}          "
+    }, {
+    "id": 8,
+    "url": "https://blog.magicblock.gg/robots.txt",
+    "title": "",
+    "body": "      Sitemap: {{ “sitemap. xml”   absolute_url }}   "
+    }, {
+    "id": 9,
+    "url": "https://blog.magicblock.gg/bolt-v0.1/",
+    "title": "BOLT engine: unstoppable and composable games",
+    "body": "2024/03/01 - The V0. 1 of BOLT is live. BOLT is an onchain framework that simplifies the development of games that are permissionless, composable and can live forever on the blockchain. The design of BOLT includes an SVM-compatible acceleration layer to bring the performance of FOC games on par with traditional multiplayer game servers, without compromising the composability of Solana’s global state. In this early release we are going through the BOLT CLI and Entity Component System (ECS), addressing the recents updates and showcasing how to set up a simple onchain game on Solana. ✨ The ECS pattern: While Bolt isn’t exclusively an Entity Component System (ECS) framework, we encourage the use of this powerful design pattern to enhance composability. ECS is a way of organizing code and data to enable modular and extendible games, key features we seek while building fully onchain. As the name suggests, in an ECS there are:  Entities that represent the objects of the game world. They are unique identifiers that don’t hold any data or behavior, but simply serve as containers Components are raw data structures that can be “attached” to entities System performs the game logic or behavior by acting upon entities that hold componentsThis separation of concerns enables a highly flexible and modular architecture. You can explore all the benefits of the ECS pattern here. BOLT CLI: The BOLT CLI is an extension of the Anchor framework. It includes all the features of the popular Solana development framework, plus a superset of functionalities for creating world instances, components and systems. Install BOLT: npm install @magicblock-labs/bolt-cliYou can verify the installation with: bolt -hInitialize your first project running: bolt init &lt;new-workspace-name&gt;Components: The example in the programs-ecs/components folder defines a Position component containing x, y, z coordinates. Remember that components are plain data structures that contain data relevant to a specific attribute of an entity. They don’t contain any logic or methods. use bolt_lang::*;declare_id!( Fn1JzzEdyb55fsyduWS94mYHizGhJZuhvjX6DVvrmGbQ );#[component]#[derive(Copy)]pub struct Position {  pub x: i64,  pub y: i64,  pub z: i64,}The #[component] macro is taking care of all the underlying Solana-specific behavior. You don’t have to understand how Accounts work, how to allocate bytes or anything other than defining the data structure. Components are themselves programs deployed onchain. declare_id!( Fn1JzzEdyb55fsyduWS94mYHizGhJZuhvjX6DVvrmGbQ );The id defines the unique address of the component Position above. Systems: Systems contain the logic that manipulates components. A system will typically operate on all entities that have a specific set of components. The system_movement example encapsulates the logic for updating the Position component. use bolt_lang::*;use component_position::Position;declare_id!( FSa6qoJXFBR3a7ThQkTAMrC15p6NkchPEjBdd4n6dXxA );#[system]pub mod system_movement {  pub fn execute(ctx: Context&lt;Components&gt;, args_p: Vec&lt;u8&gt;) -&gt; Result&lt;Components&gt; {    let position = &amp;mut ctx. accounts. position;    position. x += 1;    Ok(ctx. accounts)  }  // Define the input components  #[system_input]  pub struct Components {    pub position: Position,  }}Each system implements an execute instruction, that will take care of applying the system’s logic on an arbitrary number of components. The struct marked with the #[system_input] macro, specifies the bundle of components that the system will receive as input. The execute instruction returns the modified components, which the World Program will update in the data structures after checking permissions and business logic. Again, you don’t need to worry about the underlying blockchain layer by defining the CPI, retrieving the IDL or anything else. Just define the bundle of components you want your system to operate on! Bringing everything together with the World Program: Now that we have a grasp of how components and systems operate, let’s create a game instance with the World Program from the TypeScript SDK. The World Program is the entrypoint for creating world instances, entities, attaching components, and executing systems. The SDK provides a convenient interface and methods for interacting with BOLT. Installation: To install the bolt sdk, run the following command: npm install @magicblock-labs/bolt-sdk --save-dev Create a world instanceconst world = await World. fromAccountAddress(provider. connection, worldPda);const entityId = new anchor. BN(world. entities);entityPda = FindEntityPda(worldId, entityId);let createEntityIx = createAddEntityInstruction({  world: worldPda,  payer: provider. wallet. publicKey,  entity: entityPda,});const tx = new anchor. web3. Transaction(). add(createEntityIx);await provider. sendAndConfirm(tx);Add a new entityconst world = await World. fromAccountAddress(provider. connection, worldPda);const entityId = new anchor. BN(world. entities);entityPda = FindEntityPda(worldId, entityId);let createEntityIx = createAddEntityInstruction({  world: worldPda,  payer: provider. wallet. publicKey,  entity: entityPda,});const tx = new anchor. web3. Transaction(). add(createEntityIx);await provider. sendAndConfirm(tx);Attach the Position component to the the entityconst positionComponentPda = FindComponentPda(positionComponent. programId, entityPda,   );let initComponentIx = createInitializeComponentInstruction({  payer: provider. wallet. publicKey,  entity: entityPda,  data: positionComponentPda,  componentProgram: positionComponent. programId,});const tx = new anchor. web3. Transaction(). add(initComponentIx);await provider. sendAndConfirm(tx);Execute the movement system on the position Componentlet applySystemIx = createApplyInstruction({  componentProgram: positionComponent. programId,  boltSystem: systemMovement. programId,  boltComponent: positionComponentPda,});const tx = new anchor. web3. Transaction(). add(applySystemIx);await provider. sendAndConfirm(tx);In this simple example we have created an entity Player that holds a Position component with x,y,z coordinates. We can execute the movement system to change its state. Here’s the best part. By defining your game data structure with the BOLT ECS, you’ll not only be able to reuse existing systems and components, but you can easily allow for mods or extensions of your game. Let’s think of a slightly more sophisticated movement dynamics, with a Velocity component that alters the position defined as: use bolt_lang::*;declare_id!( CbHEFbSQdRN4Wnoby9r16umnJ1zWbULBHg4yqzGQonU1 );#[component]#[derive(Copy)]pub struct Velocity {  pub x: i64}Someone might want to introduce a new power-up for faster movement. They could do this simply by adding a new system that acts on the Position component using Velocity #[system]pub mod system_apply_velocity {  pub fn execute(ctx: Context&lt;Components&gt;, _args: Vec&lt;u8&gt;) -&gt; Result&lt;Components&gt; {    ctx. accounts. position. x += ctx. accounts. velocity. x;    Ok(ctx. accounts)  }  #[system_input]  pub struct Components {    pub position: Position,    pub velocity: Velocity,	  }}Notice how simple this snippet of code is. This new system takes as inputs the Position and Velocity components, and defines the logic of the power-up. There is no notion of Solana accounts or CPI - the proxy World program is taking care of everything here. With a few lines of code and barely any blockchain knowledge, we have just introduced a new game behavior! Summing up: BOLT leverages an ECS pattern to enable game developers to create highly modular, efficient and composable games. Entities serve as containers for components, raw data structure, allowing for dynamic customization without altering the underlying codebase. Systems interact with these components, infusing logic and behavior into the game entities. This separation of concerns not only simplifies the development process, but makes game logic more reusable and enhances the ability to extend and modify games post-launch, in a permissionless fashion. We can’t wait to see the mechanics that will emerge out of this framework. Start building with BOLT here and share your feedback with our community on Discord! "
+    }, {
+    "id": 10,
+    "url": "https://blog.magicblock.gg/session-keys/",
+    "title": "Session Keys integrated into the Solana Unity SDK",
+    "body": "2023/06/13 - We are thrilled to announce that we have partnered up with Gum and integrated Session Keys into the Solana Unity SDK. Magicblock is a powerful and versatile open-source framework designed for building on-chain games on Solana/SVM. It provides the tools to abstract away a lot of complexity and focus on creating the best experience for users. Solana Unity SDK provides a set of open-source tools to radically simplify the process of building games on Solana. It natively supports wallets, NFTs, DEXes, custom programs and now, Session Keys as well. ✨ This integration will allow game developers on Solana to effortlessly implement sessions in the games they create with Unity. Why on-chain gaming: On-chain gaming is a new exciting category of games where both the game state and logic are stored on-chain. This enables players to enjoy benefits such as easy UGC (User-Generated Content) and UGL (User-Generated Logic) due to the public and permissionless nature of smart contracts. Another benefit of building on-chain is persistence. The game and its progress are preserved indefinitely and the lack of a centralized server opens up the scene to “Autonomous Worlds”, virtual realities owned by the community that can’t be stopped or shut down. Despite all the buzz, a notable challenge is the poor user experience. Due to their nature, every player interaction is a transaction, which leads to incredible friction in gameplay. Sessions to Supercharge Games: Gum has always been at the forefront of simplifying the UX for developers and end-users alike and Solana is perfectly suited for this. Its speed and scalability allow for real-time, interactive gameplay without the worry of network congestion or high transaction fees. Session Keys act essentially as secondary signers in the game. They are used to create ephemeral keypairs and issue session tokens to users, meant for frequent interactions but for a specific session of play. With Session Keys integrated into the Solana Unity SDK, game developers can now build on-chain interactions within a game without having to worry about the UX problems and constant wallet popups that they come with. This is a huge leap in the overall gameplay experience. Session keys also solve the security issues that may arise with an in-game wallet auto-approving all the transactions, because developers can specify a target program for their validity, expiry and scope. The future of on-chain gaming: Gum and Magicblock are excited to work together to trailblaze the next phase of on-chain gaming on Solana and bring this exciting new category into the mainstream. If you are excited about the vision around on-chain gaming, we are organizing Speedrun - the first-ever Game Jam on Solana - where you can compete for the Gum prize for the best Session Keys integration. "
+    }, {
+    "id": 11,
+    "url": "https://blog.magicblock.gg/sec3/",
+    "title": "Sec3 and Magicblock Boost Security for On-chain Worlds",
+    "body": "2023/05/10 - We are happy to announce a new partnership with Sec3, a leading security research, auditing, and engineering company to enhance the security of the next generation of on-chain games and autonomous worlds. Through the partnership, Magicblock’ developers will be able to gain discounted access for X-ray, an automated smart contracts vulnerabilities scanner as well as manual Launch Audits. WatchTower, a real time on-chain monitoring service, is currently available for free. Blockchains are adversarial environments. As more and more games become fully on-chain experiences with economies deeply entrenched in DeFi markets, the need for reliable monitoring services will only increase. This is where the security expertise of sec3 comes into play, as their suite of products simplifies the monitoring of unusual transactions leveraging the latest research in Artificial Intelligence and Machine Learning. By looking through historical transactions, WatchTower is able to alert of potentially malicious transactions in real time with almost no user input. sec3 is also actively researching ways to curtail and prevent botting within gaming.  As infrastructure providers, we are always looking for ways to help our developers grow their games and improve their workflows. sec3 is an incredible add-on that will provide top-class security and monitoring solutions for fully on-chain worlds. Andrea Fortugno, CEO of Magicblock  We’re excited to collaborate with Magicblock in their pursuit of simplifying web3 game development. Our partnership will enable sec3 to deliver world-class security, auditing, and monitoring solutions that ensure the safety and resilience of on-chain economies and foster innovation in the gaming ecosystem. Chris Wang, CEO of Sec3 This partnership will provide Magicblock’s ecosystem developers with increased confidence in the security and stability of their games. We are thrilled to be working with sec3 to reduce attack vectors and vulnerabilities for the next generation of on-chain gaming. Learn more and sign up to Sec3, using the MAGICBLOCK discount code. "
+    }, {
+    "id": 12,
+    "url": "https://blog.magicblock.gg/datawisp/",
+    "title": "Datawisp and Magicblock Partner to Bring No-code Analytics to On-chain Games",
+    "body": "2023/05/03 - We’re thrilled to announce a new partnership between Magicblock, core contributor to the Solana Unity SDK, and Datawisp, a no-code analytics platform for game developers. Magicblock’s infrastructure already makes it extremely convenient to build on-chain, permissionless and composable games on Solana. Going forward, game developers using the SDK will also benefit from the collaboration between Magicblock and Datawisp in the form of 1) a more streamlined data analytics process and 2) discounted access to the Datawisp platform once the open beta ends. Datawisp is currently free to all users. Most data-related tasks are complex and require either a data scientist or engineer to complete, even more so when dealing with smart contracts. This can be a problem, especially for small studios with limited resources. Datawisp’s easy to use no-code analytics platform lets anyone track and analyze key metrics on and off chain without needing to write code - freeing up developers to focus on building awesome games! By answering key questions such as “do players who own an NFT play differently than those who don’t?” game developers can make informed decisions that will help them grow their games and retain their players. Andrea Fortugno, CEO of Magicblock  We’re excited to partner with Datawisp to bring their powerful analytics platform to game developers building on Solana. Analytics is a top priority for our users and we believe a no-code approach will enable a more streamlined development experience for on-chain games. Mo Hallaba, CEO of Datawisp  Both Datawisp and the Solana Unity SDK were built to save game developers time and allow them to focus on what matters most, building amazing games. We’re excited to partner up with MagicBlock and contribute to the Solana games ecosystem however we can. We’re extremely bullish on the Solana ecosystem and we are excited to see what innovative games and use cases can emerge from our synergic infrastructures. Learn more and sign up to Datawisp "
+    }, {
+    "id": 13,
+    "url": "https://blog.magicblock.gg/solana-unity-sdk/",
+    "title": "The Solana SDK for Unity is available on the Unity Asset Store as a Verified Solution",
+    "body": "2023/02/27 - Unity introduced today a new Asset Store category for verified decentralized technologies in gaming, which includes the Solana SDK for Unity by Magicblock. Solana is at the center of this new era of decentralized gaming. Dozens of game teams are building on Solana because Solana is fast, it scales, transaction costs are near zero, and Solana enables mobile apps. No matter if you’re a current game dev looking to enter web3 for the first time or are already familiar with Solana, this new Asset Store category makes finding the Solana SDK for Unity by Magicblock easy. From there, the SDK lets game developers easily integrate Solana-based NFTs, tokens, and on-chain programs within their Unity games, simplifying the process of building web3 games and experiences. The SDK enables wallet connectivity, the easy creation and handling of tokens, and enables easy connections to Solana-based projects. The SDK was created by Magicblock, a web3 studio building on-chain composable games for the mass mobile market. The SDK is already being used by dozens of game studios and Unity’s new decentralized asset store category will help even more game devs to start building on Solana. Find more info about the SDK here and here. "
+    }];
+
+var idx = lunr(function () {
+    this.ref('id')
+    this.field('title')
+    this.field('body')
+
+    documents.forEach(function (doc) {
+        this.add(doc)
+    }, this)
+});
+
+
+    
+function lunr_search(term) {
+    $('#lunrsearchresults').show( 1000 );
+    $( "body" ).addClass( "modal-open" );
+    
+    document.getElementById('lunrsearchresults').innerHTML = '<div id="resultsmodal" class="modal fade show d-block"  tabindex="-1" role="dialog" aria-labelledby="resultsmodal"> <div class="modal-dialog shadow-lg" role="document"> <div class="modal-content"> <div class="modal-header" id="modtit"> <button type="button" class="close" id="btnx" data-dismiss="modal" aria-label="Close"> &times; </button> </div> <div class="modal-body"> <ul class="mb-0"> </ul>    </div> <div class="modal-footer"><button id="btnx" type="button" class="btn btn-secondary btn-sm" data-dismiss="modal">Close</button></div></div> </div></div>';
+    if(term) {
+        document.getElementById('modtit').innerHTML = "<h5 class='modal-title'>Search results for '" + term + "'</h5>" + document.getElementById('modtit').innerHTML;
+        //put results on the screen.
+        var results = idx.search(term);
+        if(results.length>0){
+            //console.log(idx.search(term));
+            //if results
+            for (var i = 0; i < results.length; i++) {
+                // more statements
+                var ref = results[i]['ref'];
+                var url = documents[ref]['url'];
+                var title = documents[ref]['title'];
+                var body = documents[ref]['body'].substring(0,160)+'...';
+                document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML = document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML + "<li class='lunrsearchresult'><a href='" + url + "'><span class='title'>" + title + "</span><br /><small><span class='body'>"+ body +"</span><br /><span class='url'>"+ url +"</span></small></a></li>";
+            }
+        } else {
+            document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML = "<li class='lunrsearchresult'>Sorry, no results found. Close & try a different search!</li>";
+        }
+    }
+    return false;
+}
+</script>
+<style>
+    .lunrsearchresult .title {color: #d9230f;}
+    .lunrsearchresult .url {color: silver;}
+    .lunrsearchresult a {display: block; color: #777;}
+    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
+    .lunrsearchresult a:hover .title {text-decoration: underline;}
+</style>
+
+
+
+
+<form class="bd-search hidden-sm-down" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+<input type="text" class="form-control text-small"  id="lunrsearch" name="q" value="" placeholder="Type keyword and enter..."> 
+</form>
+            </ul>
+        </div>
+    </div>
+    </nav>
+
+    <!-- Search Results -->
+    <div id="lunrsearchresults">
+        <ul class="mb-0"></ul>
+    </div>
+
+    <!-- Content -->
+    <main role="main" class="site-content">
+        <style type="text/css" media="screen">
+  .container {
+    margin: 10px auto;
+    max-width: 600px;
+    text-align: center;
+  }
+  h1 {
+    margin: 30px 0;
+    font-size: 4em;
+    line-height: 1;
+    letter-spacing: -1px;
+  }
+</style>
+
+<div class="container">
+  <h1>404</h1>
+
+  <p><strong>Page not found :(</strong></p>
+  <p>The requested page could not be found.</p>
+</div>
+
+    </main>
+
+
+    <!-- Scripts: popper, bootstrap, theme, lunr -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+
+    <script src="/assets/js/theme.js"></script>
+
+
+    <!-- Footer -->
+    <footer class="bg-white border-top p-3 text-muted small">
+        <div class="container">
+        <div class="row align-items-center justify-content-between">
+            <div>
+                <span class="navbar-brand mr-2 mb-0"><strong>Magicblock</strong></span>
+                <span>Copyright © <script>document.write(new Date().getFullYear())</script>.</span>
+            </div>
+        </div>
+        </div>
+    </footer>
+
+    <!-- All this area goes before </body> closing tag --> 
+
+    
+
+</body>
+
+</html>
