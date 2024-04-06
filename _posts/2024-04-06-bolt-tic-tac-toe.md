@@ -209,7 +209,7 @@ pub mod play {
 }
 
 pub fn check_winner(grid: &mut Account<Grid>, player: Pubkey) {
-    ....
+    ...
 }
 ```
 
