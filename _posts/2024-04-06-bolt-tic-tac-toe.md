@@ -16,7 +16,7 @@ For a more detailed explanation of Bolt, see the announcement [blog post](/bolt-
 
 The first section of this post details the implementation of the game logic using the Bolt framework. The second section explains how to integrate a React-based client with the program, starting with an open-source [Tic-Tac-Toe](https://github.com/ucfx/TIC-TAC-TOE-GAME) implementation.
 
-The complete source code of the example is available [here]().
+The complete source code of the example is available [here](https://github.com/magicblock-labs/bolt-tic-tac-toe).
 
 ## The Game Logic: Implementing Tic-Tac-Toe with the Bolt ECS
 
@@ -213,7 +213,7 @@ pub fn check_winner(grid: &mut Account<Grid>, player: Pubkey) {
 }
 ```
 
-Refer to the full [source code]() for details.
+Refer to the full [source code](https://github.com/magicblock-labs/bolt-tic-tac-toe/blob/main/programs-ecs/systems/play/src/lib.rs) for details.
 
 As you can notice, the implementation is incredibly simple. The struct marked with `system_input` define the components input bundle, that can be accessed and used in the `execute` function. the struct marked with `arguments` define the arguments that your system can receive as input.
 
@@ -267,7 +267,7 @@ const transaction = applySystem.transaction;
 const signature = await submitTransaction(transaction);
 ```
 
-Find the simple Tic-Tac-Toe UI made in React here: []
+Find the simple Tic-Tac-Toe UI made in React here: [react-tic-tac-toe](https://github.com/magicblock-labs/bolt-tic-tac-toe/tree/main/app/react-tic-tac-toe)
 
 An important aspect to highlight is that executing systems and instantiating components require only the ID. This means that new logic and data structures can be created and utilized dynamically, enabling the development of mods and alterations to your game's behavior.
 
