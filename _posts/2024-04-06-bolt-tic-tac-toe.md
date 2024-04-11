@@ -6,9 +6,9 @@ image: assets/images/tic-tac-toe.png
 tags: [featured]
 ---
 
-In this article, we showcase a simple game example developed using the Bolt Entity Component System (ECS), which facilitates reusability of components and enables users to modify and enhance the game's logic.
+In this article, we showcase a simple game example developed using the Bolt Entity Component System (ECS), which facilitates reusability of components and enables users to modify and extend the game's logic.
 
-Furthermore, the framework significantly simplifies Solana development by abstracting low-level concepts such as account space and [Program Derived Addresses (PDAs)](https://solanacookbook.com/core-concepts/pdas.html#facts). For a comparison with an Anchor-based program, refer to this [tutorial](https://book.anchor-lang.com/anchor_in_depth/milestone_project_tic-tac-toe.html).
+The framework significantly simplifies Solana development by abstracting low-level concepts such as account space and [Program Derived Addresses (PDAs)](https://solanacookbook.com/core-concepts/pdas.html#facts). For comparison with an Anchor-based program, refer to this [tutorial](https://book.anchor-lang.com/anchor_in_depth/milestone_project_tic-tac-toe.html).
 
 For a more detailed explanation of Bolt, see the announcement [blog post](/bolt-v0.1).
 
@@ -114,7 +114,7 @@ impl Default for Grid {
 
 ### Creating the Systems
 
-Systems implement the game logic in a modular fashion. They operate on a bundle of input components and can perform any computation. Systems are executed in your world instance subject to the approval policy, e.g., a world could allow anyone to submit new systems, while another could require approval from a DAO.
+Systems implement the game logic in a modular fashion. They operate on a bundle of input components and can perform any computation. Systems are executed in your world instance subject to the approval policy, e.g., a world could allow anyone to submit new systems, while another could require approval from whitelisted parties or a DAO. 
 
 The first system we build will allow a player to join a match:
 
@@ -154,7 +154,7 @@ The second system implements the core logic of the game:
     ```bash 
     bolt system play
     ```
-2. implement the logic:
+2. Implement the logic:
 
 ```rust
 use bolt_lang::*;
@@ -273,4 +273,4 @@ An important aspect to highlight is that executing systems and instantiating com
 
 ### Conclusion
 
-We have walked through a simple implementation of a Tic-Tac-Toe game using the Bolt ECS, demonstrating how to connect it to a React UI. This highlights the simplicity and flexibility of the framework, especially its potential for mods and user-generated logic, such as building a modified version of the game where players can make two moves each turn.
+We have walked through a simple implementation of a Tic-Tac-Toe game using the Bolt ECS, demonstrating how to connect it to a React UI. This highlights the simplicity and flexibility of the framework. In addition to abstracting Solana and reusing onchain logic, we are excited about the unlocks BOLT will introduce for user-generated logic and mods. In follow-up examples, we will show how a game developer could independently and permissionlessly extend the logic of a game and how to achieve low latency/high troughput transactions using the [ephemeral rollups](https://book.boltengine.gg/introduction/ephemeral-rollups.html).
