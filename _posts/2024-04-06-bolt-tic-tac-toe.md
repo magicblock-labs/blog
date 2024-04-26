@@ -23,7 +23,7 @@ The complete source code of the example is available [here](https://github.com/m
 First, install the `bolt-cli` with:
 
 ```bash
-npm install @magicblock-labs/bolt-cli
+npm install -g @magicblock-labs/bolt-cli
 ```
 
 Once installed, create a new project with:
