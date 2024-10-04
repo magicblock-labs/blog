@@ -31,9 +31,13 @@ Using BOLT ECS and Ephemeral Rollups, Supersize was able to deliver a fully onch
 - Modularity: Supersize can compose with any smart contract and rapidly introduce new game mechanics or upgrades without having to redeploy the entire game architecture.
 - UX: Thanks to Ephemeral Rollups the gameplay is fast and offers players a seamless, gasless and uninterrupted experience.
 
-    "Coming from EVM, I was ready to make big compromises to build Supersize fully onchain. But, by leveraging Magicblock’s stack to build directly on Solana, not only does Supersize not compromise on UX, but it also synergizes elegantly with the broader Solana ecosystem." — Lewis Arnsten, Supersize founder
+> Coming from EVM, I was ready to make big compromises to build Supersize fully onchain. But, by leveraging Magicblock’s stack to build directly on Solana, not only does Supersize not compromise on UX, but it also synergizes elegantly with the broader Solana ecosystem." 
 
-    "I am extremely excited to see Supersize advancing the narrative of what is possible with FOCG. I am extremely bullish on Solana-first experiences that tap into the liquidity and existing primitives of the chain without sacrificing a seamless user experience" — Andrea Fortugno, MagicBlock cofounder & CEO 
+Lewis Arnsten, Supersize founder
+
+> I am extremely excited to see Supersize advancing the narrative of what is possible with FOCG. I am extremely bullish on Solana-first experiences that tap into the liquidity and existing primitives of the chain without sacrificing a seamless user experience"
+
+Andrea Fortugno, MagicBlock cofounder & CEO 
 
 ## About MagicBlock
 MagicBlock is a high-performance engine for fully onchain games and applications. With Ephemeral Rollups, MagicBlock empowers developers to build real-time and composable decentralized applications.
