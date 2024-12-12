@@ -48,5 +48,5 @@ This release is just the beginning. In the coming months, we plan to:
 
 ## Join the Conversation
 
-We’re thrilled to share this milestone with you and can’t wait to see what the community builds with the MagicBlock Ephemeral Validator. Share your thoughts, feedback, and projects with us on [Twitter](https://x.com/magicblock), [Discord](https://docs.magicblock.gg/Accelerate/ephemeral_rollups), or [GitHub](https://github.com/magicblock-labs).
+We’re thrilled to share this milestone with you and can’t wait to see what the community builds with the MagicBlock Ephemeral Validator. Share your thoughts, feedback, and projects with us on [Twitter](https://x.com/magicblock), [Discord](https://discord.com/invite/MBkdC3gxcv), or [GitHub](https://github.com/magicblock-labs).
 
