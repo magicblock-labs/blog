@@ -3,7 +3,7 @@ layout: post
 title: "MagicBlock Has Raised $3M to Enable Real-Time Onchain Games and Applications"
 categories: [Announcement]
 image: assets/images/founders.jpg
-tags: [featured]
+tags: [featured, sticky]
 ---
 
 MagicBlock's Ephemeral Rollups technology is designed to provide web2-like performance to Solana developers and enable the creation of trustless, unstoppable games and applications on Solana. The company has now raised a total of $3 million in pre-seed funding to scale its engine for real-time onchain games and consumer applications on Solana. MagicBlock was in the Spring 2024 cohort of the a16z Crypto Startup Accelerator (CSX) program, and secured funding from a16z CSX in conjunction with its participation.

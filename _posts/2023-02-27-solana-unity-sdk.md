@@ -3,7 +3,7 @@ layout: post
 title:  "The Solana SDK for Unity is available on the Unity Asset Store as a Verified Solution"
 categories: [ Infrastructure ]
 image: assets/images/sdk.webp
-tags: [featured]
+tags: []
 ---
 
 [Unity](https://unity.com/) introduced today a new Asset Store category for [verified decentralized technologies](https://assetstore.unity.com/decentralization) in gaming, which includes the Solana SDK for Unity by Magicblock.
