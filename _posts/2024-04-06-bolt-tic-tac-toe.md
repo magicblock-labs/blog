@@ -3,7 +3,7 @@ layout: post
 title: "Tic-Tac-Toe with Reusable Components and Customizable Logic"
 categories: [Infrastructure]
 image: assets/images/tic-tac-toe.png
-tags: [featured]
+tags: []
 ---
 
 In this article, we showcase a simple game example developed using the Bolt Entity Component System (ECS), which facilitates reusability of components and enables users to modify and extend the game's logic.
