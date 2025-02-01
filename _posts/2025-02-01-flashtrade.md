@@ -2,7 +2,7 @@
 layout: post
 title: "MagicBlock x Flash Trade: Accelerating the Future of High-Performance DeFi"
 categories: [Announcement]
-image: assets/images/flashtrade.png
+image: assets/images/flashtrade.jpeg
 tags: []
 ---
 
