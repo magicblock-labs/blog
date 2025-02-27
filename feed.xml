@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://blog.magicblock.gg/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.magicblock.gg/" rel="alternate" type="text/html" /><updated>2025-02-27T15:47:16+00:00</updated><id>https://blog.magicblock.gg/feed.xml</id><title type="html">Magicblock</title><subtitle>The Framework for on-chain games on Solana/SVM</subtitle><entry><title type="html">MagicBlock x Pyth Lazer: Real-time DeFi can now compete with CeFi</title><link href="https://blog.magicblock.gg/pythlazer/" rel="alternate" type="text/html" title="MagicBlock x Pyth Lazer: Real-time DeFi can now compete with CeFi" /><published>2025-02-27T00:00:00+00:00</published><updated>2025-02-27T00:00:00+00:00</updated><id>https://blog.magicblock.gg/pythlazer</id><content type="html" xml:base="https://blog.magicblock.gg/pythlazer/"><![CDATA[<p>Today, we’re excited to announce a strategic partnership between MagicBlock and Pyth to bring 1ms price feeds to all Solana dApps. By combining MagicBlock’s high-performance network infrastructure with Pyth Lazer’s financial data feeds, we are unlocking new possibilities for institutional-grade DeFi applications that demand speed, accuracy, and deep liquidity.</p>
+
+<p>At MagicBlock, our mission is to empower developers with the fastest, most scalable execution environments in Web3. Pyth Lazer’s high-fidelity, real-time data feeds provide an essential component for DeFi applications, ensuring that traders and protocols have access to the best available market data without relying on centralized sources.</p>
+
+<blockquote>
+  <p>“MagicBlock’s ephemeral rollups enable us to deliver the lowest-latency, high-performance trading experiences, while Pyth Lazer ensures that our partners have the most accurate real-time data. Together, we’re eliminating the barriers to high-performance DeFi and we are paving the way for institutional-grade products.” – Andrea Fortugno, Co-Founder of MagicBlock</p>
+</blockquote>
+
+<h2 id="revolutionizing-on-chain-finance">Revolutionizing On-Chain Finance</h2>
+
+<p>Latency and unreliable data sources are two of the biggest challenges facing decentralized finance. DeFi protocols require execution speeds comparable to traditional finance while maintaining transparency and security. By integrating with Pyth Lazer, MagicBlock delivers:</p>
+
+<ul>
+  <li><strong>Real-Time Price Data</strong>: 1ms price feed and Ephemeral Node colocation ensure that financial data remains as granular as possible</li>
+  <li><strong>Seamless Composability</strong>: Builders can integrate Pyth Lazer’s data feeds into MagicBlock-powered applications without additional bridges or intermediaries.</li>
+  <li><strong>Scalability for Institutional Use</strong>: MagicBlock’s elastic transaction processing enables scalable DeFi applications to support institutional-grade trading volumes.</li>
+</ul>
+
+<h2 id="a-shared-vision-for-the-future-of-defi">A Shared Vision for the Future of DeFi</h2>
+
+<p>MagicBlock and Pyth share a vision of a decentralized financial ecosystem that rivals the speed and reliability of traditional markets. With this partnership, we’re equipping builders with:</p>
+
+<ul>
+  <li><strong>Reliable, decentralized financial data</strong> for trading apps, spot and derivatives protocols.</li>
+  <li><strong>Optimized transaction execution</strong> that scales dynamically to meet network demand.</li>
+  <li><strong>Security, verifiability and transparency</strong> of fully onchain apps built on Solana</li>
+</ul>
+
+<blockquote>
+  <p>“Pyth Lazer’s integration with MagicBlock represents a breakthrough for DeFi infrastructure. By combining Pyth Lazer’s millisecond-latency price feeds with MagicBlock’s ultra-fast execution environment, Solana developers have the tools to build apps that match the performance of traditional markets and have the potential to create the next generation of finance.” – Abhimanyu Bansal, Head of BD at Douro Labs</p>
+</blockquote>
+
+<p>This collaboration is a call to DeFi builders everywhere: the future of finance is real-time, data-driven, and unstoppable. With MagicBlock and Pyth, the next generation of decentralized financial applications is here.</p>
+
+<h2 id="unleash-the-power-of-magicblock--pyth-lazer">Unleash the Power of MagicBlock &amp; Pyth Lazer</h2>
+
+<p>Join us in shaping the future of high-performance DeFi. Explore our documentation.</p>
+
+<p>Explore our <a href="https://docs.magicblock.gg/introduction">documentation</a>, or follow us on <a href="https://twitter.com/magicblock">Twitter (X)</a>, <a href="https://discord.com/invite/MBkdC3gxcv">Discord</a> to stay in the loop. Let’s build the future — faster, smarter, together.</p>]]></content><author><name>Magicblock</name></author><category term="Announcement" /><summary type="html"><![CDATA[Today, we’re excited to announce a strategic partnership between MagicBlock and Pyth to bring 1ms price feeds to all Solana dApps. By combining MagicBlock’s high-performance network infrastructure with Pyth Lazer’s financial data feeds, we are unlocking new possibilities for institutional-grade DeFi applications that demand speed, accuracy, and deep liquidity.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.magicblock.gg/assets/images/pythlazer.png" /><media:content medium="image" url="https://blog.magicblock.gg/assets/images/pythlazer.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">MagicBlock x Jito: Enhancing Security for Realtime Decentralized Applications on Solana</title><link href="https://blog.magicblock.gg/jito/" rel="alternate" type="text/html" title="MagicBlock x Jito: Enhancing Security for Realtime Decentralized Applications on Solana" /><published>2025-02-19T00:00:00+00:00</published><updated>2025-02-19T00:00:00+00:00</updated><id>https://blog.magicblock.gg/jito</id><content type="html" xml:base="https://blog.magicblock.gg/jito/"><![CDATA[<p>Today, we’re thrilled to announce our partnership with <a href="https://www.jito.network/">Jito Network</a> to integrate their restaking solution, strengthening the security of realtime, decentralized applications on Solana.</p>
+
+<p>MagicBlock is a realtime network extension that enables developers to build performant fully onchain applications, from FOC games to high-frequency DEXes that can rival centralized trading venues.</p>
+
+<p>Developers can now implement the entire logic of their apps on Solana and execute computations - that would traditionally run on centralized servers— in a specialized, temporary environment called an “Ephemeral Rollup,”. developers can achieve the <strong>same performance of traditional servers while avoiding single points of failure</strong>. This allows for <strong>persistent, composable, and verifiable applications</strong> that operate at the speed and scale needed for realtime, decentralized applications.</p>
+
+<p>By integrating Jito (Re)staking and slashing, MagicBlock is adding an important layer of economic incentives that accelerate decentralization and enhances the security of the network.</p>
+
+<blockquote>
+  <p>“Our goal at MagicBlock has always been to supercharge Solana’s capabilities while avoiding the fragmentations of L2s. Ephemeral Rollups give developers superpowers and additional optionality to build and scale Real-time apps on Solana, and this partnership with Jito allows us to secure and decentralize the network even further.”– Andrea Fortugno, Co-Founder of MagicBlock</p>
+</blockquote>
+
+<h2 id="unlocking-better-economic-incentives-for-solana-builders">Unlocking Better Economic Incentives for Solana Builders</h2>
+
+<p>Jito’s restaking infrastructure is designed to enable staked assets to secure multiple networks or services, thereby increasing their security and contributing to the overall robustness of these systems.
+Through this partnership, MagicBlock developers can now benefit from:</p>
+
+<ul>
+  <li><strong>Enhanced Security</strong>: Restaking allows staked assets to secure Ephemeral Validators, who are kept accountable for their stake and must behave correctly to avoid getting slashed.</li>
+  <li><strong>Increased Economic Utility</strong>: By participating in restaking, users and tokenholders can unlock additional value from their assets, leading to an extra layer of economic incentives.</li>
+  <li><strong>Seamless Integration</strong>: The restaking framework integrates with existing developer workflows without added complexity, allowing for flexible, secure and scalable ER sessions that can easily manage staked assets.</li>
+</ul>
+
+<blockquote>
+  <p>“We’re excited about exploring Solana scaling solutions and the types of use cases they unlock for application developers,” says Hayden Tsutsui (business development, (re)staking). “By integrating Jito (Re)Staking, the main benefit of this partnership is two-fold: (1) MagicBlock’s engine and ephemeral rollups will remain tethered to the base layer, and (2) Jito Network and its set of node operators will continue to push the boundaries of providing a secure foundation for use cases beyond the L1.”</p>
+</blockquote>
+
+<h2 id="a-shared-vision-for-performance--decentralization">A Shared Vision for Performance &amp; Decentralization</h2>
+
+<p>We believe that <strong>Web3 should match the performance of Web2, without sacrificing decentralization</strong>.</p>
+
+<p>This collaboration isn’t just about enhancing security—it’s about empowering developers with superpowers, allowing them to build secure, realtime applications directly on Solana while avoiding the fragmentations of L2s and single-point-of-failures of web2 infrastructure.</p>
+
+<p>Over the coming months, we’ll explore in detail the different modules related to the network security, including releasing staking and restaking functionalities—stay tuned.</p>]]></content><author><name>Magicblock</name></author><category term="Announcement" /><summary type="html"><![CDATA[Today, we’re thrilled to announce our partnership with Jito Network to integrate their restaking solution, strengthening the security of realtime, decentralized applications on Solana.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.magicblock.gg/assets/images/jito.png" /><media:content medium="image" url="https://blog.magicblock.gg/assets/images/jito.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">MagicBlock x Flash Trade: Accelerating the Future of High-Performance DeFi</title><link href="https://blog.magicblock.gg/flashtrade/" rel="alternate" type="text/html" title="MagicBlock x Flash Trade: Accelerating the Future of High-Performance DeFi" /><published>2025-02-01T00:00:00+00:00</published><updated>2025-02-01T00:00:00+00:00</updated><id>https://blog.magicblock.gg/flashtrade</id><content type="html" xml:base="https://blog.magicblock.gg/flashtrade/"><![CDATA[<p>Today, we’re thrilled to announce a transformative partnership with <a href="https://www.flash.trade/">Flash Trade</a>, Solana’s leading asset-backed perpetuals exchange. Together, we’re setting a new standard for DeFi, delivering lightning-fast trading experiences that redefine the boundaries of speed and composability.
+At MagicBlock, we empower builders to create without compromise—enabling performance that rivals traditional finance while embracing the trustless, decentralized ethos of Web3. By joining forces with Flash Trade, we’re unlocking the potential for a Binance-like exchange built entirely on Solana!</p>
+
+<blockquote>
+  <p>“MagicBlock’s cutting-edge network infrastructure gives us the power to deliver on our vision: a CEXY trading experience that matches the speed of Web2 exchanges while staying true to the decentralized principles we believe in.” – <a href="https://x.com/allinbitcoin_">Anas</a>, Co-Founder of Flash Trade.</p>
+</blockquote>
+
+<p>MagicBlock Ephemeral Rollups technology empowers Flash Trade to deliver:</p>
+
+<ul>
+  <li><strong>Real-Time UX</strong>: Sub-50ms latency for a trading experience that feels as intuitive as any Web2 platform.</li>
+  <li><strong>Unfragmented Liquidity</strong>: Keep users entirely within the Solana ecosystem—avoiding bridges and maintaining the full potential of composability.</li>
+  <li><strong>Dynamic Scalability</strong>: Elastic transactions per second (TPS) to handle even the most extreme demand without missing a beat.</li>
+</ul>
+
+<p>With MagicBlock’s real-time network powering Flash Trade, high-frequency traders and institutional players alike can experience decentralized trading that meets the performance and expectations of centralized solutions.</p>
+
+<h2 id="shared-ambition-limitless-potential">Shared Ambition, Limitless Potential</h2>
+
+<p>Together with the team at Flash Trade, we share a bold vision: <strong>to make decentralized finance as fast as centralized exchanges</strong>. By overcoming fragmentations and scalability challenges, we’re enabling builders to dream bigger and achieve more.
+With our real-time network, dynamic co-location, and cutting-edge runtime extensions, MagicBlock ensures that DeFi developers can build experiences that are as reliable as they are groundbreaking.</p>
+
+<h2 id="equipping-builders-for-whats-next">Equipping Builders for What’s Next</h2>
+
+<p>At MagicBlock, we’re not just solving for speed; we’re sparking possibility. Our ephemeral roll-up technology ensures developers have the tools they need to scale, innovate, and deliver with confidence.</p>
+
+<p><strong>What this means for builders</strong>:</p>
+<ul>
+  <li><strong>Unwavering Reliability</strong>: Consistent performance, no matter the network conditions.</li>
+  <li><strong>Enhanced Ecosystem Connectivity</strong>: Seamless composability with Solana’s liquidity-rich environment.</li>
+  <li><strong>Freedom to Innovate</strong>: Remove the technical roadblocks holding you back—build boldly, experiment fearlessly, and launch faster.</li>
+</ul>
+
+<blockquote>
+  <p>“We are excited to put our technology to the service of one of the sleekest on-chain dex to supercharge its capabilities even more. Flash Trade can shape the next generation of decentralized perpetual exchanges.” - <a href="https://x.com/supermarioblock">Andrea Fortugno</a>, Co-Founder of MagicBlock</p>
+</blockquote>
+
+<p>This partnership is more than just a collaboration; it’s a call to developers everywhere: the future of DeFi is ready to be built, and with MagicBlock, the possibilities are boundless.
+Together with Flash Trade, we are making what once seemed impossible, inevitable.</p>
+
+<hr />
+
+<h2 id="unleash-the-power-of-magicblock">Unleash the Power of MagicBlock</h2>
+
+<p>Get ready to explore new horizons of performance and innovation in decentralized finance.</p>
+
+<p>Explore our <a href="https://docs.magicblock.gg/introduction">documentation</a>, or follow us on <a href="https://x.com/magicblock">Twitter (X)</a> and <a href="https://discord.com/invite/MBkdC3gxcv">Discord</a> to stay in the loop. Let’s build the future—faster, smarter, together.</p>]]></content><author><name>Magicblock</name></author><category term="Announcement" /><summary type="html"><![CDATA[Today, we’re thrilled to announce a transformative partnership with Flash Trade, Solana’s leading asset-backed perpetuals exchange. Together, we’re setting a new standard for DeFi, delivering lightning-fast trading experiences that redefine the boundaries of speed and composability. At MagicBlock, we empower builders to create without compromise—enabling performance that rivals traditional finance while embracing the trustless, decentralized ethos of Web3. By joining forces with Flash Trade, we’re unlocking the potential for a Binance-like exchange built entirely on Solana!]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.magicblock.gg/assets/images/flashtrade.jpeg" /><media:content medium="image" url="https://blog.magicblock.gg/assets/images/flashtrade.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Open Sourcing the MagicBlock Ephemeral Validator</title><link href="https://blog.magicblock.gg/ephemeral-validator/" rel="alternate" type="text/html" title="Open Sourcing the MagicBlock Ephemeral Validator" /><published>2024-12-12T00:00:00+00:00</published><updated>2024-12-12T00:00:00+00:00</updated><id>https://blog.magicblock.gg/ephemeral-validator</id><content type="html" xml:base="https://blog.magicblock.gg/ephemeral-validator/"><![CDATA[<p>Today, we’re excited to announce the open sourcing of the <a href="https://github.com/magicblock-labs/ephemeral-validator">MagicBlock Ephemeral Validator</a>, a non-voting and lightweight SVM-runtime that brings real-time, elastic compute to Solana.</p>
+
+<blockquote>
+  <p>TLDR: You can now write your entire Web2 server logic on Solana and execute arbitrary account updates on Just-In-Time (JIT) SVM instances, which run in parallel with Solana and replace centralized servers. Ephemeral Validators are designed to to use the SVM as a serverless, elastic compute environment for real-time use cases while keeping all smart contracts and state on Mainnet. Forget traditional servers. Just build on Solana and use MagicBlock to access real-time, elastic compute when you need it.</p>
+</blockquote>
+
+<h2 id="why-we-built-it">Why We Built It</h2>
+
+<p>Short version: to bring <strong>real-time</strong>, **elastic compute ** to Solana.</p>
+
+<p>Long version: We believe Solana will become the kernel for global finance. As applications mature and users demand real-time interactions, we see the potential to unlock new experiences that are natively composable with Solana state and run entirely on the SVM instead of a centralized server. While Solana provides exceptional throughput, use cases such as fully onchain games, decentralized social networks or trustless high-frequency financial products require even more scalability. With Ephemeral Rollups, developers can implement the entire logic of these apps on Solana and execute computations that would normally run on a server in a temporary, specialized SVM environment, gaining persistence, composability and verifiability for their applications.</p>
+
+<h2 id="what-is-the-magicblock-ephemeral-validator">What Is the MagicBlock Ephemeral Validator?</h2>
+
+<p>The MagicBlock Ephemeral Validator is a non-voting, lightweight SVM-runtime that clones accounts and programs just-in-time (JIT) and settles state to a reference cluster. An Ephemeral validator can run as close as possible to the users to reduce networking latency and it can be run as a sidecar to the Mainnet Validator Clients, standalone or by users themselves given the <a href="https://x.com/PiccoGabriele/status/1828464238442226032">lowered hardware requirements</a>. Node operators can increase their profitability processing the transactions that would otherwise be implemented in a traditional server or would make little sense to run on Mainnet because they are uneconomical or for latency &amp; runtime limitations.
+There are 3 main components that the Ephemeral Validator interface with</p>
+
+<h2 id="the-ephemeral-execution-environment">The Ephemeral execution environment</h2>
+
+<p>Ephemeral validators don’t participate in consensus nor can create new Accounts. Ephemeral Validator can only process state transitions on accounts delegated to the delegation program. Once an account has been delegated onchain, the Ephemeral Node clones the account and all the programs associated with it. The delegated state is natively locked on Solana and can be modified in the Ephemeral environment. Since the consensus is postponed to the commitment stage, the slot time can be arbitrarily short. Transactions are processed on a first-come-first-served (FCFS) basis and intra-slot updates allow users to subscribe to real-time data, minimising end-to-end latency. Ephemeral rollups open a new design space to scale elastically, where ordering and sequencing can be implemented as part of the smart contract logic. Additionally, even the same smart contract can dynamically execute some instruction in the ER (a fast-pace action), while some other on mainnet (e.g. depositing liquidity, doing a swap, minting, dispatching a reward, ..). Lastly, the ability to run dedicated  runtime leaves the design space open for further customization for application specific use-cases (e.g. a free ticking or randomness) that wouldn’t be possible or make sense to run on Mainnet.</p>
+
+<p><img src="/assets/images/ephemeral_validator_diagram.png" alt="Ephemeral Validator Architecture" /></p>
+
+<hr />
+
+<h2 id="a-supercharged-development-environment">A supercharged development environment</h2>
+
+<p>The Ephemeral Validator has been optimized for execution and it can be used as a supercharged development environment. Check out <a href="https://luzid.app/">luzid.app</a> if you want to develop at blazing speed!</p>
+
+<h2 id="whats-next">What’s Next</h2>
+
+<p>By open-sourcing the validator, we aim to foster collaboration among developers and accelerate adoption of real-time onchain applications.
+This release is just the beginning. In the coming months, we plan to:</p>
+
+<ul>
+  <li>Introduce further optimizations to enhance the validator’s performance.</li>
+  <li>Provide more in-depth documentation and tutorials for developers.</li>
+  <li>Launch community initiatives, including hackathons and grants</li>
+</ul>
+
+<hr />
+
+<h2 id="join-the-conversation">Join the Conversation</h2>
+
+<p>We’re thrilled to share this milestone with you and can’t wait to see what the community builds with the MagicBlock Ephemeral Validator. Share your thoughts, feedback, and projects with us on <a href="https://x.com/magicblock">Twitter</a>, <a href="https://discord.com/invite/MBkdC3gxcv">Discord</a>, or <a href="https://github.com/magicblock-labs">GitHub</a>.</p>]]></content><author><name>Magicblock</name></author><category term="Announcement" /><summary type="html"><![CDATA[Today, we’re excited to announce the open sourcing of the MagicBlock Ephemeral Validator, a non-voting and lightweight SVM-runtime that brings real-time, elastic compute to Solana.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.magicblock.gg/assets/images/ephemeral_validator.jpg" /><media:content medium="image" url="https://blog.magicblock.gg/assets/images/ephemeral_validator.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Zeebit: Transparent and provably fair games of chance</title><link href="https://blog.magicblock.gg/zeebit/" rel="alternate" type="text/html" title="Zeebit: Transparent and provably fair games of chance" /><published>2024-10-18T00:00:00+00:00</published><updated>2024-10-18T00:00:00+00:00</updated><id>https://blog.magicblock.gg/zeebit</id><content type="html" xml:base="https://blog.magicblock.gg/zeebit/"><![CDATA[<p>Zeebit is a gaming platform (available at <a href="https://zeebit.io/">Zeebit.io</a> ) focused on delivering a wide range of games of chance. The mantra of Zeebit has always been providing Web2-like user experiences, while being transparent, permissionless, fair and self-custodied. Despite its obsessive focus on users, Zeebit’s growth was hampered significantly earlier this year as a result of Solana’s congestion. Zeebit’s users could hardly land transactions. Even in scenarios where the network was not degraded, users’ interactions can take anywhere between 0.5s to 1.5s – significantly slower than the off-chain products Zeebit is competing with.</p>
+
+<h2 id="challenge-web2-like-ux-with-solana-liquidity">Challenge: Web2-Like UX with Solana Liquidity</h2>
+
+<p>To achieve its goal of delivering a decentralized and provably fair experience, Zeebit needed a solution that could:</p>
+<ul>
+  <li>Provide a fast, seamless user experience without the typical friction associated with blockchain transactions, like gas fees and transaction delays.</li>
+  <li>Maintain composability with Solana liquidity and interact seamlessly with the wider Solana ecosystem.</li>
+  <li>Scale to support a growing number of players, ensuring consistent real-time performance even as demand increased.
+Traditional L2 approaches lead to liquidity fragmentation and increased user friction, both of which run counter to Zeebit’s objective of a Web2-like experience.</li>
+</ul>
+
+<h2 id="solution-delegating-into-ephemeral-rollups-for-every-game-interaction">Solution: Delegating into Ephemeral Rollups for Every Game interaction</h2>
+
+<p>To meet these challenges, Zeebit makes use of Ephemeral Rollups to power its games. From a user perspective, Ephemeral Rollups allow Zeebit to built the following flow:</p>
+<ul>
+  <li>Players allocate funds to a smart contract account on Solana, signalling the intent to play.</li>
+  <li>During  game play, some transactions are offloaded to the ephemeral validator for real-time interaction – ensuring that game logic can be processed with minimal latency.</li>
+  <li>The experience is seamless and gasless – as Zeebit is acting as fee payer in the ephemeral node, giving players the fluid experience they expect without compromising decentralization.</li>
+  <li>When the game ends, a game state gets committed on Solana where the payout happens, preserving liquidity and ensuring player funds remain on the L1.</li>
+</ul>
+
+<p>By delegating each game into Ephemeral Rollups, Zeebit was able to achieve web2-like performance while maintaining the composability benefits of Solana.</p>
+
+<h2 id="results-an-immersive-gasless-fully-on-chain-experience">Results: An Immersive, Gasless, Fully On-Chain Experience</h2>
+
+<p>With MagicBlock’s Ephemeral Rollups, Zeebit successfully bridged the gap between Web2 performance and fully on-chain decentralization, achieving:</p>
+
+<ul>
+  <li><strong>Web2-like User Experience</strong>: Thanks to Ephemeral Rollups, Zeebit players enjoy a fast, gasless, and uninterrupted gaming experience that feels identical to traditional online games.</li>
+  <li><strong>Solana Liquidity and Composability</strong>: Zeebit’s games are on Solana, allowing them to leverage all the existing tokens and smart contracts without fragmentation or bridging.</li>
+  <li><strong>Scalability</strong>: The architecture scales seamlessly as the number of concurrent players grows, maintaining real-time interactivity without compromising performance.</li>
+  <li><strong>Modularity</strong>: Zeebit can introduce new game features and integrate with additional Solana primitives quickly and efficiently, keeping their gaming experiences fresh and engaging.</li>
+</ul>
+
+<blockquote>
+  <p>“When congestion first hit, the project really took a major blow. While the situation did improve, it was clear the promise of perpetually and consistently high speed and low cost transaction may no longer be guaranteed on Solana Mainnet. MagicBlock’s Ephemeral Rollup model was a game-changer in enabling Zeebit’s vision. Web3 security and transparency with web2 UX was always Zeebit’s mandate, and MagicBlock is a key enabler of this mission. ”</p>
+</blockquote>
+
+<p>Bayes, Zeebit founder</p>
+
+<blockquote>
+  <p>“Zeebit built an extremely interesting use case that shows the interplays between Solana and Ephemeral Rollups. In order to launch successful dapps at scale we need the same attention to details and focus that Zeebit has for its product and we are proud to help them achieve this without leaving Solana ” —</p>
+</blockquote>
+
+<p>Andrea Fortugno, MagicBlock cofounder &amp; CEO</p>
+
+<h3 id="about-magicblock">About MagicBlock</h3>
+
+<p>MagicBlock is a high-performance engine for fully onchain games and applications. With Ephemeral Rollups, MagicBlock empowers developers to build real-time and composable decentralized applications.</p>]]></content><author><name>Magicblock</name></author><category term="Announcement" /><category term="featured" /><summary type="html"><![CDATA[Zeebit is a gaming platform (available at Zeebit.io ) focused on delivering a wide range of games of chance. The mantra of Zeebit has always been providing Web2-like user experiences, while being transparent, permissionless, fair and self-custodied. Despite its obsessive focus on users, Zeebit’s growth was hampered significantly earlier this year as a result of Solana’s congestion. Zeebit’s users could hardly land transactions. Even in scenarios where the network was not degraded, users’ interactions can take anywhere between 0.5s to 1.5s – significantly slower than the off-chain products Zeebit is competing with.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.magicblock.gg/assets/images/zeebit.jpg" /><media:content medium="image" url="https://blog.magicblock.gg/assets/images/zeebit.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Supersize: a next-gen real-time PvP game on Solana</title><link href="https://blog.magicblock.gg/supersize/" rel="alternate" type="text/html" title="Supersize: a next-gen real-time PvP game on Solana" /><published>2024-10-04T00:00:00+00:00</published><updated>2024-10-04T00:00:00+00:00</updated><id>https://blog.magicblock.gg/supersize</id><content type="html" xml:base="https://blog.magicblock.gg/supersize/"><![CDATA[<p>Supersize is a next-generation gaming platform (available at <a href="http://supersize.gg:3000/">Supersize.gg</a>) pushing the boundaries of fully onchain gaming on Solana with a simple, powerful vision: financial markets meet .io style game. Supersize is developing a real-time multiplayer experience where users compete for resources in a customizable PvP setting. The game is built entirely onchain (state and logic) and blends financial incentives, UGC and the simplicity of agar.io to create truly innovative game dynamics. The challenge? Creating an entirely onchain experience that could run with real-time latency and impeccable UX without composability fragmentation.</p>
+
+<h2 id="challenge-real-time-latency-without-fragmenting-solana-liquidity-and-state">Challenge: real-time latency without fragmenting Solana liquidity and state</h2>
+
+<p>Supersize required a framework that could handle:</p>
+
+<ul>
+  <li>Real-time latency for an ever growing number of concurrent players</li>
+  <li>Composability with Solana liquidity and smart contracts</li>
+  <li>Seamless user experience despite all interactions being onchain transactions</li>
+</ul>
+
+<p>Supersize knew that traditional L2 architecture would struggle to meet these needs due to  well-known issues of liquidity fragmentation and the inability to offer consistent real time latency to a globally distributed audience.</p>
+
+<h2 id="solution-leveraging-bolt-ecs--ephemeral-rollups">Solution: Leveraging BOLT ECS + Ephemeral Rollups</h2>
+
+<p>Supersize turned to MagicBlock and leveraged <a href="https://docs.magicblock.gg/Build/Bolt/introduction">BOLT</a> ECS (Entity-Component-System) and Ephemeral Rollups to bring its vision to life. BOLT is an ECS framework built on top of Anchor that enabled Supersize to efficiently structure game logic on Solana, leaving space for the introduction of new systems to extend and modify the game. MagicBlock’s Ephemeral Rollups provided the low-latency performance needed for real-time interactions, while keeping liquidity and all the smart contract on Solana. Additionally, by means of co-location, Ephemeral Rollups further reduce the networking latency (~30ms end-to-end) offering performances on par with traditional multiplayer game servers.</p>
+
+<h2 id="results-a-seamless-fully-on-chain-gaming-experience">Results: A Seamless, Fully On-Chain Gaming Experience</h2>
+
+<p>Using BOLT ECS and Ephemeral Rollups, Supersize was able to deliver a fully onchain game that matched all their criteria with:</p>
+
+<ul>
+  <li>High scalability and real-time latency: Supersize can elastically scale to support more players who interact with each others in real-time</li>
+  <li>Solana liquidity and composability: the game is built on Solana and can leverage SOL, BONK, LST or any other token without bridging.</li>
+  <li>Modularity: Supersize can compose with any smart contract and rapidly introduce new game mechanics or upgrades without having to redeploy the entire game architecture.</li>
+  <li>UX: Thanks to Ephemeral Rollups the gameplay is fast and offers players a seamless, gasless and uninterrupted experience.</li>
+</ul>
+
+<blockquote>
+  <p>Coming from EVM, I was ready to make big compromises to build Supersize fully onchain. But, by leveraging Magicblock’s stack to build directly on Solana, not only does Supersize not compromise on UX, but it also synergizes elegantly with the broader Solana ecosystem.”</p>
+</blockquote>
+
+<p>Lewis Arnsten, Supersize founder</p>
+
+<blockquote>
+  <p>I am extremely excited to see Supersize advancing the narrative of what is possible with FOCG. I am extremely bullish on Solana-first experiences that tap into the liquidity and existing primitives of the chain without sacrificing a seamless user experience”</p>
+</blockquote>
+
+<p>Andrea Fortugno, MagicBlock cofounder &amp; CEO</p>
+
+<h2 id="about-magicblock">About MagicBlock</h2>
+<p>MagicBlock is a high-performance engine for fully onchain games and applications. With Ephemeral Rollups, MagicBlock empowers developers to build real-time and composable decentralized applications.
+Learn more at <a href="https://docs.magicblock.gg/">MagicBlock</a>.</p>]]></content><author><name>Magicblock</name></author><category term="Announcement" /><category term="featured" /><summary type="html"><![CDATA[Supersize is a next-generation gaming platform (available at Supersize.gg) pushing the boundaries of fully onchain gaming on Solana with a simple, powerful vision: financial markets meet .io style game. Supersize is developing a real-time multiplayer experience where users compete for resources in a customizable PvP setting. The game is built entirely onchain (state and logic) and blends financial incentives, UGC and the simplicity of agar.io to create truly innovative game dynamics. The challenge? Creating an entirely onchain experience that could run with real-time latency and impeccable UX without composability fragmentation.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.magicblock.gg/assets/images/supersize.png" /><media:content medium="image" url="https://blog.magicblock.gg/assets/images/supersize.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">MagicBlock Has Raised $3M to Enable Real-Time Onchain Games and Applications</title><link href="https://blog.magicblock.gg/enable-real-time-onchain-games-and-applications/" rel="alternate" type="text/html" title="MagicBlock Has Raised $3M to Enable Real-Time Onchain Games and Applications" /><published>2024-09-17T00:00:00+00:00</published><updated>2024-09-17T00:00:00+00:00</updated><id>https://blog.magicblock.gg/enable-real-time-onchain-games-and-applications</id><content type="html" xml:base="https://blog.magicblock.gg/enable-real-time-onchain-games-and-applications/"><![CDATA[<p>MagicBlock’s Ephemeral Rollups technology is designed to provide web2-like performance to Solana developers and enable the creation of trustless, unstoppable games and applications on Solana. The company has now raised a total of $3 million in pre-seed funding to scale its engine for real-time onchain games and consumer applications on Solana. MagicBlock was in the Spring 2024 cohort of the a16z Crypto Startup Accelerator (CSX) program, and secured funding from a16z CSX in conjunction with its participation.</p>
+
+<p>MagicBlock was founded to address the limitations of current onchain applications, which struggle with performance and scalability. In contrast to Ethereum Layer 2 solutions, which often introduce fragmentation and a poor user experience due to liquidity fragmentation and loss of composability, MagicBlock’s Ephemeral Rollups function more like a coprocessor or an extension of Solana. Thanks to the Solana’s Virtual Machine (SVM) native separation of state and logic, developers can move only part of the state to an Ephemeral Rollup session while retaining the core programs on Solana, effectively creating a multi-threaded environment for their dapps. This design ensures seamless composability with Solana and real-time performance, making Ephemeral Rollups ideal not only for gaming but also for any other application requiring high-performance and composability.</p>
+
+<p>MagicBlock’s unique approach enables developers to create unstoppable, trustless, and composable applications that can operate without traditional servers, while avoiding the clunky feeling of transaction lags.This funding marks a significant milestone in MagicBlock’s journey. With the new funding, MagicBlock aims to expand its team, developer outreach and technology development. This raise is a testament to the growing demand for truly decentralized, high-performance applications in the web3 industry.</p>]]></content><author><name>Magicblock</name></author><category term="Announcement" /><category term="featured" /><category term="sticky" /><summary type="html"><![CDATA[MagicBlock’s Ephemeral Rollups technology is designed to provide web2-like performance to Solana developers and enable the creation of trustless, unstoppable games and applications on Solana. The company has now raised a total of $3 million in pre-seed funding to scale its engine for real-time onchain games and consumer applications on Solana. MagicBlock was in the Spring 2024 cohort of the a16z Crypto Startup Accelerator (CSX) program, and secured funding from a16z CSX in conjunction with its participation.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.magicblock.gg/assets/images/founders.jpg" /><media:content medium="image" url="https://blog.magicblock.gg/assets/images/founders.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Introducing Luzid: Solana Development at Light Speed</title><link href="https://blog.magicblock.gg/luzid/" rel="alternate" type="text/html" title="Introducing Luzid: Solana Development at Light Speed" /><published>2024-07-03T00:00:00+00:00</published><updated>2024-07-03T00:00:00+00:00</updated><id>https://blog.magicblock.gg/luzid</id><content type="html" xml:base="https://blog.magicblock.gg/luzid/"><![CDATA[<p>We are thrilled to release <a href="https://luzid.app/docs/getting-started/installation/">the latest version of Luzid</a>, an essential tool for anyone building on Solana, no matter if you are a seasoned developer or just starting out.</p>
+
+<h2 id="what-is-luzid">What is Luzid?</h2>
+
+<p>Luzid embeds a blazingly fast test validator and provides enhanced insights into your transactions including account diffs. It clones programs and accounts on demand, enables persistent state via snapshots and account state mutation in order to ease test setup.</p>
+
+<p>Finally its workspace discovery feature has you up and running with all your local programs loaded in no time.</p>
+
+<h2 id="key-features-of-luzid">Key Features of Luzid</h2>
+
+<h3 id="1-develop-at-the-speed-of-light">1. Develop at the Speed of Light</h3>
+
+<p>Luzid embeds a validator optimised for speed. Developers will be more productive as a result as the turnaround time from code change to test completion is cut drastically. We’ve seen 16x speedup for some test suites when compared to running them via the stock Solana test validator.</p>
+
+<h3 id="2-flexible-state-management">2. Flexible State Management</h3>
+
+<p>Luzid enables developers to mutate account states via its powerful SDK. This is an essential feature to set up test scenarios quickly. Luzid’s snapshot makes it easy to persist and restore state repeatedly to test multiple actions based on it. Snapshots can persist and be restored across Luzid sessions.</p>
+
+<h3 id="3-workspace-discovery-and-on-demand-program-cloning">3. Workspace Discovery and On Demand Program Cloning</h3>
+
+<p>At startup Luzid will scan your workspace and automatically load all your programs into the
+validator. Each time you apply a change to your program, Luzid will <em>hotswap</em> it into the already running validator without requiring a program redeploy or validator restart.</p>
+
+<p>If Luzid encounters a program as part of a transaction it does not know about it will automatically clone it from the specified Solana cluster, i.e Devnet or Mainnet. This makes it easy to test transactions locally without any additional setup.</p>
+
+<h3 id="4-account-diff-visualisation">4. Account Diff Visualisation</h3>
+
+<p>Luzid discovers IDLs for programs loaded from a workspace or cloned on demand. This enables it to show not only parsed account data, but also to provide visual diffs for each
+account that was modified as part of a transaction. This powerful feature makes it much easier for developers to understand what each transaction is doing and to diagnose issues.</p>
+
+<p>When an IDL for a program cannot be found Luzid will provide account diffs in a raw format
+which is very useful to understand how some programs work under the hood.</p>
+
+<h3 id="5-seeing-is-believing">5. Seeing is Believing</h3>
+
+<p>In order to truly appreciate the boost to your productivity that Luzid provides we recommend
+you to give it a try following these simple steps:</p>
+
+<ol>
+  <li>Download Luzid following <a href="https://luzid.app/docs/getting-started/installation/">the Luzid Getting Started guide</a></li>
+  <li>Navigate to your workspace directory in a terminal</li>
+  <li>Launch Luzid in workspace discovery mode via <code class="language-plaintext highlighter-rouge">luzid .</code></li>
+  <li>Open the Luzid UI (LuzidUI.app on MacOS) and start developing</li>
+</ol>
+
+<h2 id="join-our-developer-community">Join our developer Community</h2>
+
+<p>Luzid is an open-source tool developed by MagicBlock and available for the whole Solana developer community; For a comprehensive overview of Luzid and to see it in action, watch the <a href="https://www.youtube.com/watch?v=3J_42C6xuNM">introductory video on YouTube</a>.</p>
+
+<p>Join the <a href="https://discord.com/invite/MBkdC3gxcv">MagicBlock discord</a> to learn how to make the most out of Luzid and stay up-to-date with the latest developments.</p>]]></content><author><name>Magicblock</name></author><category term="Infrastructure" /><category term="featured" /><summary type="html"><![CDATA[We are thrilled to release the latest version of Luzid, an essential tool for anyone building on Solana, no matter if you are a seasoned developer or just starting out.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.magicblock.gg/assets/images/luzid.jpg" /><media:content medium="image" url="https://blog.magicblock.gg/assets/images/luzid.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tic-Tac-Toe with Reusable Components and Customizable Logic</title><link href="https://blog.magicblock.gg/bolt-tic-tac-toe/" rel="alternate" type="text/html" title="Tic-Tac-Toe with Reusable Components and Customizable Logic" /><published>2024-04-06T00:00:00+00:00</published><updated>2024-04-06T00:00:00+00:00</updated><id>https://blog.magicblock.gg/bolt-tic-tac-toe</id><content type="html" xml:base="https://blog.magicblock.gg/bolt-tic-tac-toe/"><![CDATA[<p>In this article, we showcase a simple game example developed using the Bolt Entity Component System (ECS), which facilitates reusability of components and enables users to modify and extend the game’s logic.</p>
+
+<p>The framework significantly simplifies Solana development by abstracting low-level concepts such as account space and <a href="https://solanacookbook.com/core-concepts/pdas.html#facts">Program Derived Addresses (PDAs)</a>. For comparison with an Anchor-based program, refer to this <a href="https://book.anchor-lang.com/anchor_in_depth/milestone_project_tic-tac-toe.html">tutorial</a>.</p>
+
+<p>For a more detailed explanation of Bolt, see the announcement <a href="/bolt-v0.1">blog post</a>.</p>
+
+<h1 id="implementing-tic-tac-toe">Implementing Tic-Tac-Toe</h1>
+
+<p>The first section of this post details the implementation of the game logic using the Bolt framework. The second section explains how to integrate a React-based client with the program, starting with an open-source <a href="https://github.com/ucfx/TIC-TAC-TOE-GAME">Tic-Tac-Toe</a> implementation.</p>
+
+<p>The complete source code of the example is available <a href="https://github.com/magicblock-labs/bolt-tic-tac-toe">here</a>.</p>
+
+<h2 id="the-game-logic-implementing-tic-tac-toe-with-the-bolt-ecs">The Game Logic: Implementing Tic-Tac-Toe with the Bolt ECS</h2>
+
+<p>First, install the <code class="language-plaintext highlighter-rouge">bolt-cli</code> with:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>npm <span class="nb">install</span> <span class="nt">-g</span> @magicblock-labs/bolt-cli
+</code></pre></div></div>
+
+<p>Once installed, create a new project with:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bolt init tic-tac-toe
+</code></pre></div></div>
+
+<h3 id="creating-the-components">Creating the Components</h3>
+
+<p>We need to define the data structures required. For simplicity, we will create two components: one containing the active players and the other containing the grid information.</p>
+
+<p>Create a new components with:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bolt component players
+</code></pre></div></div>
+
+<p>This command creates a players component under program-ecs/components. The players component, which holds the public keys of the two players, can be defined as follows:</p>
+
+<div class="language-rust highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">use</span> <span class="nn">bolt_lang</span><span class="p">::</span><span class="o">*</span><span class="p">;</span>
+
+<span class="nd">declare_id!</span><span class="p">(</span><span class="s">"5Xz6iiE2FZdpqrvCKbGqDajNYt1tP8cRGXrq3THSFo1q"</span><span class="p">);</span>
+
+<span class="nd">#[component]</span>
+<span class="nd">#[derive(Default)]</span>
+<span class="k">pub</span> <span class="k">struct</span> <span class="n">Players</span> <span class="p">{</span>
+    <span class="k">pub</span> <span class="n">players</span><span class="p">:</span> <span class="p">[</span><span class="nb">Option</span><span class="o">&lt;</span><span class="n">Pubkey</span><span class="o">&gt;</span><span class="p">;</span> <span class="mi">2</span><span class="p">],</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>The second component contains the grid information. Create it with:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bolt component grid
+</code></pre></div></div>
+
+<p>The grid component can be defined as:</p>
+
+<div class="language-rust highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">use</span> <span class="nn">bolt_lang</span><span class="p">::</span><span class="o">*</span><span class="p">;</span>
+
+<span class="nd">declare_id!</span><span class="p">(</span><span class="s">"rdiVoU6KomhXBDMLi6UXVHvmjEUtKqb5iDCWChxMzZ7"</span><span class="p">);</span>
+
+<span class="nd">#[component]</span>
+<span class="k">pub</span> <span class="k">struct</span> <span class="n">Grid</span> <span class="p">{</span>
+    <span class="k">pub</span> <span class="n">board</span><span class="p">:</span> <span class="p">[[</span><span class="nb">Option</span><span class="o">&lt;</span><span class="n">Sign</span><span class="o">&gt;</span><span class="p">;</span> <span class="mi">3</span><span class="p">];</span> <span class="mi">3</span><span class="p">],</span>
+    <span class="k">pub</span> <span class="n">state</span><span class="p">:</span> <span class="n">GameState</span><span class="p">,</span>
+    <span class="k">pub</span> <span class="n">is_first_player_turn</span><span class="p">:</span> <span class="nb">bool</span><span class="p">,</span>
+<span class="p">}</span>
+
+<span class="nd">#[component_deserialize]</span>
+<span class="nd">#[derive(PartialEq)]</span>
+<span class="k">pub</span> <span class="k">enum</span> <span class="n">GameState</span> <span class="p">{</span>
+    <span class="n">Active</span><span class="p">,</span>
+    <span class="n">Tie</span><span class="p">,</span>
+    <span class="n">Won</span> <span class="p">{</span> <span class="n">winner</span><span class="p">:</span> <span class="n">Pubkey</span> <span class="p">},</span>
+<span class="p">}</span>
+
+<span class="nd">#[component_deserialize]</span>
+<span class="nd">#[derive(PartialEq)]</span>
+<span class="k">pub</span> <span class="k">enum</span> <span class="n">Sign</span> <span class="p">{</span>
+    <span class="n">X</span><span class="p">,</span>
+    <span class="n">O</span><span class="p">,</span>
+<span class="p">}</span>
+
+<span class="k">impl</span> <span class="n">Sign</span> <span class="p">{</span>
+    <span class="k">pub</span> <span class="k">fn</span> <span class="nf">from_usize</span><span class="p">(</span><span class="n">value</span><span class="p">:</span> <span class="nb">usize</span><span class="p">)</span> <span class="k">-&gt;</span> <span class="n">Sign</span> <span class="p">{</span>
+        <span class="k">match</span> <span class="n">value</span> <span class="p">{</span>
+            <span class="mi">0</span> <span class="k">=&gt;</span> <span class="nn">Sign</span><span class="p">::</span><span class="n">X</span><span class="p">,</span>
+            <span class="n">_</span> <span class="k">=&gt;</span> <span class="nn">Sign</span><span class="p">::</span><span class="n">O</span><span class="p">,</span>
+        <span class="p">}</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+
+<span class="k">impl</span> <span class="nb">Default</span> <span class="k">for</span> <span class="n">Grid</span> <span class="p">{</span>
+    <span class="k">fn</span> <span class="nf">default</span><span class="p">()</span> <span class="k">-&gt;</span> <span class="k">Self</span> <span class="p">{</span>
+        <span class="k">Self</span><span class="p">::</span><span class="nf">new</span><span class="p">(</span><span class="n">GridInit</span><span class="p">{</span>
+            <span class="n">board</span><span class="p">:</span> <span class="p">[[</span><span class="nb">None</span><span class="p">;</span> <span class="mi">3</span><span class="p">];</span> <span class="mi">3</span><span class="p">],</span>
+            <span class="n">state</span><span class="p">:</span> <span class="nn">GameState</span><span class="p">::</span><span class="n">Active</span><span class="p">,</span>
+            <span class="n">is_first_player_turn</span><span class="p">:</span> <span class="k">true</span><span class="p">,</span>
+        <span class="p">})</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<h3 id="creating-the-systems">Creating the Systems</h3>
+
+<p>Systems implement the game logic in a modular fashion. They operate on a bundle of input components and can perform any computation. Systems are executed in your world instance subject to the approval policy, e.g., a world could allow anyone to submit new systems, while another could require approval from whitelisted parties or a DAO.</p>
+
+<p>The first system we build will allow a player to join a match:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bolt system join-game
+</code></pre></div></div>
+
+<p>Modify the logic (in program-ecs/systems/join-game.rs) to:</p>
+
+<div class="language-rust highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nd">#[system]</span>
+<span class="k">pub</span> <span class="k">mod</span> <span class="n">join_game</span> <span class="p">{</span>
+
+    <span class="k">pub</span> <span class="k">fn</span> <span class="nf">execute</span><span class="p">(</span><span class="n">ctx</span><span class="p">:</span> <span class="n">Context</span><span class="o">&lt;</span><span class="n">Components</span><span class="o">&gt;</span><span class="p">,</span> <span class="n">_args_p</span><span class="p">:</span> <span class="nb">Vec</span><span class="o">&lt;</span><span class="nb">u8</span><span class="o">&gt;</span><span class="p">)</span> <span class="k">-&gt;</span> <span class="nb">Result</span><span class="o">&lt;</span><span class="n">Components</span><span class="o">&gt;</span> <span class="p">{</span>
+        <span class="k">let</span> <span class="n">players</span> <span class="o">=</span> <span class="o">&amp;</span><span class="k">mut</span> <span class="n">ctx</span><span class="py">.accounts.players.players</span><span class="p">;</span>
+        <span class="k">let</span> <span class="n">idx</span> <span class="o">=</span> <span class="k">match</span> <span class="n">players</span><span class="nf">.iter_mut</span><span class="p">()</span><span class="nf">.position</span><span class="p">(|</span><span class="n">player</span><span class="p">|</span> <span class="n">player</span><span class="nf">.is_none</span><span class="p">())</span> <span class="p">{</span>
+            <span class="nf">Some</span><span class="p">(</span><span class="n">player_index</span><span class="p">)</span> <span class="k">=&gt;</span> <span class="n">player_index</span><span class="p">,</span>
+            <span class="nb">None</span> <span class="k">=&gt;</span> <span class="k">return</span> <span class="nf">Err</span><span class="p">(</span><span class="nn">PlayersError</span><span class="p">::</span><span class="n">GameFull</span><span class="nf">.into</span><span class="p">()),</span>
+        <span class="p">};</span>
+        <span class="n">ctx</span><span class="py">.accounts.players.players</span><span class="p">[</span><span class="n">idx</span><span class="p">]</span> <span class="o">=</span> <span class="nf">Some</span><span class="p">(</span><span class="o">*</span><span class="n">ctx</span><span class="py">.accounts.authority.key</span><span class="p">);</span>
+        <span class="nf">Ok</span><span class="p">(</span><span class="n">ctx</span><span class="py">.accounts</span><span class="p">)</span>
+    <span class="p">}</span>
+
+    <span class="nd">#[system_input]</span>
+    <span class="k">pub</span> <span class="k">struct</span> <span class="n">Components</span> <span class="p">{</span>
+        <span class="k">pub</span> <span class="n">players</span><span class="p">:</span> <span class="n">Players</span><span class="p">,</span>
+    <span class="p">}</span>
+
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>The second system implements the core logic of the game:</p>
+
+<ol>
+  <li>
+    <p>Create a play system:</p>
+
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code> bolt system play
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>Implement the logic:</p>
+  </li>
+</ol>
+
+<div class="language-rust highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">use</span> <span class="nn">bolt_lang</span><span class="p">::</span><span class="o">*</span><span class="p">;</span>
+<span class="k">use</span> <span class="nn">grid</span><span class="p">::</span><span class="n">Grid</span><span class="p">;</span>
+<span class="k">use</span> <span class="nn">players</span><span class="p">::</span><span class="n">Players</span><span class="p">;</span>
+
+<span class="nd">declare_id!</span><span class="p">(</span><span class="s">"DyUy1naq1kb3r7HYBrTf7YhnGMJ5k5NqS3Mhk65GfSih"</span><span class="p">);</span>
+
+<span class="nd">#[system]</span>
+<span class="k">pub</span> <span class="k">mod</span> <span class="n">play</span> <span class="p">{</span>
+
+    <span class="k">pub</span> <span class="k">fn</span> <span class="nf">execute</span><span class="p">(</span><span class="n">ctx</span><span class="p">:</span> <span class="n">Context</span><span class="o">&lt;</span><span class="n">Components</span><span class="o">&gt;</span><span class="p">,</span> <span class="n">args</span><span class="p">:</span> <span class="n">Args</span><span class="p">)</span> <span class="k">-&gt;</span> <span class="nb">Result</span><span class="o">&lt;</span><span class="n">Components</span><span class="o">&gt;</span> <span class="p">{</span>
+        <span class="k">let</span> <span class="n">grid</span> <span class="o">=</span> <span class="o">&amp;</span><span class="k">mut</span> <span class="n">ctx</span><span class="py">.accounts.grid</span><span class="p">;</span>
+        <span class="k">let</span> <span class="n">players</span> <span class="o">=</span> <span class="o">&amp;</span><span class="k">mut</span> <span class="n">ctx</span><span class="py">.accounts.players</span><span class="p">;</span>
+        <span class="k">let</span> <span class="n">authority</span> <span class="o">=</span> <span class="o">*</span><span class="n">ctx</span><span class="py">.accounts.authority.key</span><span class="p">;</span>
+        <span class="nd">require!</span><span class="p">(</span><span class="n">players</span><span class="py">.players</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">==</span> <span class="nf">Some</span><span class="p">(</span><span class="n">authority</span><span class="p">)</span> <span class="p">||</span> <span class="n">players</span><span class="py">.players</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span> <span class="o">==</span> <span class="nf">Some</span><span class="p">(</span><span class="n">authority</span><span class="p">),</span> <span class="nn">TicTacToeError</span><span class="p">::</span><span class="n">NotInGame</span><span class="p">);</span>
+        <span class="nd">require!</span><span class="p">(</span><span class="n">grid</span><span class="py">.state</span> <span class="o">==</span> <span class="nn">grid</span><span class="p">::</span><span class="nn">GameState</span><span class="p">::</span><span class="n">Active</span><span class="p">,</span> <span class="nn">TicTacToeError</span><span class="p">::</span><span class="n">NotActive</span><span class="p">);</span>
+        <span class="k">let</span> <span class="n">player_idx</span> <span class="p">:</span> <span class="nb">usize</span> <span class="o">=</span> <span class="k">if</span> <span class="n">players</span><span class="py">.players</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">==</span> <span class="nf">Some</span><span class="p">(</span><span class="n">authority</span><span class="p">)</span> <span class="p">{</span> <span class="mi">0</span> <span class="p">}</span> <span class="k">else</span> <span class="p">{</span> <span class="mi">1</span> <span class="p">};</span>
+        <span class="nd">require!</span><span class="p">(</span><span class="n">grid</span><span class="py">.is_first_player_turn</span> <span class="o">==</span> <span class="p">(</span><span class="n">player_idx</span> <span class="o">==</span> <span class="mi">0</span><span class="p">),</span> <span class="nn">TicTacToeError</span><span class="p">::</span><span class="n">NotPlayersTurn</span><span class="p">);</span>
+
+        <span class="c1">// Core game logic</span>
+        <span class="k">match</span> <span class="n">args</span> <span class="p">{</span>
+            <span class="n">tile</span> <span class="o">@</span> <span class="n">Args</span> <span class="p">{</span>
+                <span class="n">row</span><span class="p">:</span> <span class="mi">0</span><span class="o">..=</span><span class="mi">2</span><span class="p">,</span>
+                <span class="n">column</span><span class="p">:</span> <span class="mi">0</span><span class="o">..=</span><span class="mi">2</span><span class="p">,</span>
+            <span class="p">}</span> <span class="k">=&gt;</span> <span class="k">match</span> <span class="n">grid</span><span class="py">.board</span><span class="p">[</span><span class="n">tile</span><span class="py">.row</span> <span class="k">as</span> <span class="nb">usize</span><span class="p">][</span><span class="n">tile</span><span class="py">.column</span> <span class="k">as</span> <span class="nb">usize</span><span class="p">]</span> <span class="p">{</span>
+                <span class="nf">Some</span><span class="p">(</span><span class="n">_</span><span class="p">)</span> <span class="k">=&gt;</span> <span class="k">return</span> <span class="nf">Err</span><span class="p">(</span><span class="nn">TicTacToeError</span><span class="p">::</span><span class="n">TileAlreadySet</span><span class="nf">.into</span><span class="p">()),</span>
+                <span class="nb">None</span> <span class="k">=&gt;</span> <span class="p">{</span>
+                    <span class="n">grid</span><span class="py">.board</span><span class="p">[</span><span class="n">tile</span><span class="py">.row</span> <span class="k">as</span> <span class="nb">usize</span><span class="p">][</span><span class="n">tile</span><span class="py">.column</span> <span class="k">as</span> <span class="nb">usize</span><span class="p">]</span> <span class="o">=</span>
+                        <span class="nf">Some</span><span class="p">(</span><span class="nn">grid</span><span class="p">::</span><span class="nn">Sign</span><span class="p">::</span><span class="nf">from_usize</span><span class="p">(</span><span class="n">player_idx</span><span class="p">));</span>
+                <span class="p">}</span>
+            <span class="p">},</span>
+            <span class="n">_</span> <span class="k">=&gt;</span> <span class="k">return</span> <span class="nf">Err</span><span class="p">(</span><span class="nn">TicTacToeError</span><span class="p">::</span><span class="n">TileOutOfBounds</span><span class="nf">.into</span><span class="p">()),</span>
+        <span class="p">}</span>
+        <span class="n">grid</span><span class="py">.is_first_player_turn</span> <span class="o">=</span> <span class="o">!</span><span class="n">grid</span><span class="py">.is_first_player_turn</span><span class="p">;</span>
+        <span class="nf">check_winner</span><span class="p">(</span><span class="n">grid</span><span class="p">,</span> <span class="n">authority</span><span class="p">);</span>
+        <span class="nf">Ok</span><span class="p">(</span><span class="n">ctx</span><span class="py">.accounts</span><span class="p">)</span>
+    <span class="p">}</span>
+
+    <span class="nd">#[system_input]</span>
+    <span class="k">pub</span> <span class="k">struct</span> <span class="n">Components</span> <span class="p">{</span>
+        <span class="k">pub</span> <span class="n">grid</span><span class="p">:</span> <span class="n">Grid</span><span class="p">,</span>
+        <span class="k">pub</span> <span class="n">players</span><span class="p">:</span> <span class="n">Players</span><span class="p">,</span>
+    <span class="p">}</span>
+
+    <span class="nd">#[arguments]</span>
+    <span class="k">struct</span> <span class="n">Args</span> <span class="p">{</span>
+        <span class="n">row</span><span class="p">:</span> <span class="nb">u8</span><span class="p">,</span>
+        <span class="n">column</span><span class="p">:</span> <span class="nb">u8</span><span class="p">,</span>
+    <span class="p">}</span>
+
+<span class="p">}</span>
+
+<span class="k">pub</span> <span class="k">fn</span> <span class="nf">check_winner</span><span class="p">(</span><span class="n">grid</span><span class="p">:</span> <span class="o">&amp;</span><span class="k">mut</span> <span class="n">Account</span><span class="o">&lt;</span><span class="n">Grid</span><span class="o">&gt;</span><span class="p">,</span> <span class="n">player</span><span class="p">:</span> <span class="n">Pubkey</span><span class="p">)</span> <span class="p">{</span>
+    <span class="o">...</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>Refer to the full <a href="https://github.com/magicblock-labs/bolt-tic-tac-toe/blob/main/programs-ecs/systems/play/src/lib.rs">source code</a> for details.</p>
+
+<p>As you can notice, the implementation is incredibly simple. The struct marked with <code class="language-plaintext highlighter-rouge">system_input</code> define the components input bundle, that can be accessed and used in the <code class="language-plaintext highlighter-rouge">execute</code> function. the struct marked with <code class="language-plaintext highlighter-rouge">arguments</code> define the arguments that your system can receive as input.</p>
+
+<h3 id="build-and-test-the-program">Build and Test the Program</h3>
+
+<p>Build the program with:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bolt build
+</code></pre></div></div>
+
+<p>This command compiles the program and generates the IDL and TypeScript types automatically for client integration.</p>
+
+<p>The process for setting up components and executing the systems involves the following steps:</p>
+
+<ol>
+  <li>Instantiate a world.</li>
+  <li>Create a match entity.</li>
+  <li>Attach the players and grid components to this match entity.</li>
+  <li>Execute the systems to facilitate gameplay.</li>
+</ol>
+
+<p>The TypeScript tests for the Tic-Tac-Toe game can be found here:</p>
+
+<h3 id="connect-a-react-client">Connect a React Client</h3>
+
+<p>Connecting a React client is straightforward, thanks to the dynamic retrieval and generation of types and the utility functions provided by the Bolt TypeScript SDK.</p>
+
+<p>Add the dependency with:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>yarn add <span class="nt">-D</span> @magicblock-labs/bolt-sdk
+</code></pre></div></div>
+
+<p>For example, to execute a system:</p>
+
+<div class="language-typescript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">// Components</span>
+<span class="kd">const</span> <span class="nx">GRID_COMPONENT</span> <span class="o">=</span> <span class="k">new</span> <span class="nc">PublicKey</span><span class="p">(</span><span class="dl">"</span><span class="s2">rdiVoU6KomhXBDMLi6UXVHvmjEUtKqb5iDCWChxMzZ7</span><span class="dl">"</span><span class="p">);</span>
+<span class="kd">const</span> <span class="nx">PLAYERS_COMPONENT</span> <span class="o">=</span> <span class="k">new</span> <span class="nc">PublicKey</span><span class="p">(</span><span class="dl">"</span><span class="s2">5Xz6iiE2FZdpqrvCKbGqDajNYt1tP8cRGXrq3THSFo1q</span><span class="dl">"</span><span class="p">);</span>
+
+<span class="c1">// Systems</span>
+<span class="kd">const</span> <span class="nx">JOIN_GAME</span> <span class="o">=</span> <span class="k">new</span> <span class="nc">PublicKey</span><span class="p">(</span><span class="dl">"</span><span class="s2">2umhnxiCtmg5KTn4L9BLo24uLjb74gAh4tmpMLRKYndN</span><span class="dl">"</span><span class="p">);</span>
+<span class="kd">const</span> <span class="nx">PLAY</span> <span class="o">=</span> <span class="k">new</span> <span class="nc">PublicKey</span><span class="p">(</span><span class="dl">"</span><span class="s2">DyUy1naq1kb3r7HYBrTf7YhnGMJ5k5NqS3Mhk65GfSih</span><span class="dl">"</span><span class="p">);</span>
+
+<span class="kd">const</span> <span class="nx">applySystem</span> <span class="o">=</span> <span class="k">await</span> <span class="nc">ApplySystem</span><span class="p">({</span>
+    <span class="na">authority</span><span class="p">:</span> <span class="nx">publicKey</span><span class="p">,</span>
+    <span class="na">system</span><span class="p">:</span> <span class="nx">JOIN_GAME</span><span class="p">,</span>
+    <span class="nx">entity</span><span class="p">,</span>
+    <span class="na">components</span><span class="p">:</span> <span class="p">[</span><span class="nx">PLAYERS_COMPONENT</span><span class="p">],</span>
+<span class="p">});</span>
+<span class="kd">const</span> <span class="nx">transaction</span> <span class="o">=</span> <span class="nx">applySystem</span><span class="p">.</span><span class="nx">transaction</span><span class="p">;</span>
+<span class="kd">const</span> <span class="nx">signature</span> <span class="o">=</span> <span class="k">await</span> <span class="nf">submitTransaction</span><span class="p">(</span><span class="nx">transaction</span><span class="p">);</span>
+</code></pre></div></div>
+
+<p>Find the simple Tic-Tac-Toe UI made in React here: <a href="https://github.com/magicblock-labs/bolt-tic-tac-toe/tree/main/app/react-tic-tac-toe">react-tic-tac-toe</a></p>
+
+<p>An important aspect to highlight is that executing systems and instantiating components require only the ID. This means that new logic and data structures can be created and utilized dynamically, enabling the development of mods and alterations to your game’s behavior.</p>
+
+<h3 id="conclusion">Conclusion</h3>
+
+<p>We have walked through a simple implementation of a Tic-Tac-Toe game using the Bolt ECS, demonstrating how to connect it to a React UI. This highlights the simplicity and flexibility of the framework. In addition to abstracting Solana and reusing onchain logic, we are excited about the unlocks BOLT will introduce for user-generated logic and mods. In follow-up examples, we will show how a game developer could independently and permissionlessly extend the logic of a game and how to achieve low latency/high troughput transactions using the <a href="https://book.boltengine.gg/introduction/ephemeral-rollups.html">ephemeral rollups</a>.</p>]]></content><author><name>Magicblock</name></author><category term="Infrastructure" /><summary type="html"><![CDATA[In this article, we showcase a simple game example developed using the Bolt Entity Component System (ECS), which facilitates reusability of components and enables users to modify and extend the game’s logic.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.magicblock.gg/assets/images/tic-tac-toe.png" /><media:content medium="image" url="https://blog.magicblock.gg/assets/images/tic-tac-toe.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">BOLT engine: unstoppable and composable games</title><link href="https://blog.magicblock.gg/bolt-v0.1/" rel="alternate" type="text/html" title="BOLT engine: unstoppable and composable games" /><published>2024-03-01T00:00:00+00:00</published><updated>2024-03-01T00:00:00+00:00</updated><id>https://blog.magicblock.gg/bolt-v0.1</id><content type="html" xml:base="https://blog.magicblock.gg/bolt-v0.1/"><![CDATA[<p>The V0.1 of BOLT is live. BOLT is an onchain framework that simplifies the development of games that are permissionless, composable and can live forever on the blockchain. The design of BOLT includes an SVM-compatible <a href="https://arxiv.org/abs/2311.02650">acceleration layer</a> to bring the performance of FOC games on par with traditional multiplayer game servers, without compromising the composability of Solana’s global state. In this early release we are going through the BOLT CLI and Entity Component System (ECS), addressing the recents updates and showcasing how to set up a simple onchain game on Solana. ✨</p>
+
+<h2 id="the-ecs-pattern">The ECS pattern</h2>
+
+<p>While Bolt isn’t exclusively an Entity Component System (ECS) framework, we encourage the use of this powerful design pattern to enhance composability. ECS is a way of organizing code and data to enable modular and extendible games, key features we seek while building fully onchain. As the name suggests, in an ECS there are:</p>
+
+<ul>
+  <li>Entities that represent the objects of the game world. They are unique identifiers that don’t hold any data or behavior, but simply serve as containers</li>
+  <li>Components are raw data structures that can be “attached” to entities</li>
+  <li>System performs the game logic or behavior by acting upon entities that hold components</li>
+</ul>
+
+<p>This separation of concerns enables a highly flexible and modular architecture. You can explore all the benefits of the ECS pattern <a href="https://github.com/SanderMertens/ecs-faq?tab=readme-ov-file#what-is-ecs.">here</a>.</p>
+
+<h2 id="bolt-cli">BOLT CLI</h2>
+
+<p>The BOLT CLI is an extension of the Anchor framework. It includes all the features of the popular Solana development framework, plus a superset of functionalities for creating world instances, components and systems.</p>
+
+<h3 id="install-bolt">Install BOLT</h3>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>npm <span class="nb">install</span> @magicblock-labs/bolt-cli
+</code></pre></div></div>
+
+<p>You can verify the installation with:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bolt <span class="nt">-h</span>
+</code></pre></div></div>
+
+<p>Initialize your first project running:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bolt init &lt;new-workspace-name&gt;
+</code></pre></div></div>
+
+<h3 id="components">Components</h3>
+
+<p>The example in the <code class="language-plaintext highlighter-rouge">programs-ecs/components</code> folder defines a <code class="language-plaintext highlighter-rouge">Position</code> component containing x, y, z coordinates. Remember that components are plain data structures that contain data relevant to a specific attribute of an entity. They don’t contain any logic or methods.</p>
+
+<div class="language-rust highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">use</span> <span class="nn">bolt_lang</span><span class="p">::</span><span class="o">*</span><span class="p">;</span>
+
+<span class="nd">declare_id!</span><span class="p">(</span><span class="s">"Fn1JzzEdyb55fsyduWS94mYHizGhJZuhvjX6DVvrmGbQ"</span><span class="p">);</span>
+
+<span class="nd">#[component]</span>
+<span class="nd">#[derive(Copy)]</span>
+<span class="k">pub</span> <span class="k">struct</span> <span class="n">Position</span> <span class="p">{</span>
+    <span class="k">pub</span> <span class="n">x</span><span class="p">:</span> <span class="nb">i64</span><span class="p">,</span>
+    <span class="k">pub</span> <span class="n">y</span><span class="p">:</span> <span class="nb">i64</span><span class="p">,</span>
+    <span class="k">pub</span> <span class="n">z</span><span class="p">:</span> <span class="nb">i64</span><span class="p">,</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>The <strong>#[component]</strong> macro is taking care of all the underlying Solana-specific behavior. You don’t have to understand how Accounts work, how to allocate bytes or anything other than defining the data structure.</p>
+
+<p>Components are themselves programs deployed onchain.</p>
+
+<div class="language-rust highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nd">declare_id!</span><span class="p">(</span><span class="s">"Fn1JzzEdyb55fsyduWS94mYHizGhJZuhvjX6DVvrmGbQ"</span><span class="p">);</span>
+</code></pre></div></div>
+<p>The id defines the unique address of the component <code class="language-plaintext highlighter-rouge">Position</code> above.</p>
+
+<h3 id="systems">Systems</h3>
+
+<p>Systems contain the logic that manipulates components. A system will typically operate on all entities that have a specific set of components. The <code class="language-plaintext highlighter-rouge">system_movement</code> example encapsulates the logic for updating the <code class="language-plaintext highlighter-rouge">Position</code> component.</p>
+
+<div class="language-rust highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">use</span> <span class="nn">bolt_lang</span><span class="p">::</span><span class="o">*</span><span class="p">;</span>
+<span class="k">use</span> <span class="nn">component_position</span><span class="p">::</span><span class="n">Position</span><span class="p">;</span>
+
+<span class="nd">declare_id!</span><span class="p">(</span><span class="s">"FSa6qoJXFBR3a7ThQkTAMrC15p6NkchPEjBdd4n6dXxA"</span><span class="p">);</span>
+
+<span class="nd">#[system]</span>
+<span class="k">pub</span> <span class="k">mod</span> <span class="n">system_movement</span> <span class="p">{</span>
+
+    <span class="k">pub</span> <span class="k">fn</span> <span class="nf">execute</span><span class="p">(</span><span class="n">ctx</span><span class="p">:</span> <span class="n">Context</span><span class="o">&lt;</span><span class="n">Components</span><span class="o">&gt;</span><span class="p">,</span> <span class="n">args_p</span><span class="p">:</span> <span class="nb">Vec</span><span class="o">&lt;</span><span class="nb">u8</span><span class="o">&gt;</span><span class="p">)</span> <span class="k">-&gt;</span> <span class="nb">Result</span><span class="o">&lt;</span><span class="n">Components</span><span class="o">&gt;</span> <span class="p">{</span>
+        <span class="k">let</span> <span class="n">position</span> <span class="o">=</span> <span class="o">&amp;</span><span class="k">mut</span> <span class="n">ctx</span><span class="py">.accounts.position</span><span class="p">;</span>
+        <span class="n">position</span><span class="py">.x</span> <span class="o">+=</span> <span class="mi">1</span><span class="p">;</span>
+        <span class="nf">Ok</span><span class="p">(</span><span class="n">ctx</span><span class="py">.accounts</span><span class="p">)</span>
+    <span class="p">}</span>
+
+    <span class="c1">// Define the input components</span>
+    <span class="nd">#[system_input]</span>
+    <span class="k">pub</span> <span class="k">struct</span> <span class="n">Components</span> <span class="p">{</span>
+        <span class="k">pub</span> <span class="n">position</span><span class="p">:</span> <span class="n">Position</span><span class="p">,</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>Each system implements an execute instruction, that will take care of applying the system’s logic on an arbitrary number of components.</p>
+
+<p>The struct marked with the #[system_input] macro, specifies the bundle of components that the system will receive as input.</p>
+
+<p>The execute instruction returns the modified components, which the World Program will update in the data structures after checking permissions and business logic.</p>
+
+<p>Again, you don’t need to worry about the underlying blockchain layer by defining the CPI, retrieving the IDL or anything else. Just define the bundle of components you want your system to operate on!</p>
+
+<h3 id="bringing-everything-together-with-the-world-program">Bringing everything together with the World Program</h3>
+
+<p>Now that we have a grasp of how components and systems operate, let’s create a game instance with the World Program from the TypeScript SDK. The World Program is the entrypoint for creating world instances, entities, attaching components, and executing systems. The SDK provides a convenient interface and methods for interacting with BOLT.</p>
+
+<h4 id="installation">Installation</h4>
+<p>To install the bolt sdk, run the following command:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>npm <span class="nb">install</span> @magicblock-labs/bolt-sdk <span class="nt">--save-dev</span> 
+</code></pre></div></div>
+
+<h5 id="create-a-world-instance">Create a world instance</h5>
+
+<div class="language-ts highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">initNewWorld</span> <span class="o">=</span> <span class="k">await</span> <span class="nc">InitializeNewWorld</span><span class="p">({</span>
+    <span class="na">payer</span><span class="p">:</span> <span class="nx">provider</span><span class="p">.</span><span class="nx">wallet</span><span class="p">.</span><span class="nx">publicKey</span><span class="p">,</span>
+    <span class="na">connection</span><span class="p">:</span> <span class="nx">provider</span><span class="p">.</span><span class="nx">connection</span><span class="p">,</span>
+<span class="p">});</span>
+<span class="kd">const</span> <span class="nx">tx</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">anchor</span><span class="p">.</span><span class="nx">web3</span><span class="p">.</span><span class="nc">Transaction</span><span class="p">().</span><span class="nf">add</span><span class="p">(</span><span class="nx">createEntityIx</span><span class="p">);</span>
+<span class="k">await</span> <span class="nx">provider</span><span class="p">.</span><span class="nf">sendAndConfirm</span><span class="p">(</span><span class="nx">initNewWorld</span><span class="p">.</span><span class="nx">transaction</span><span class="p">);</span>
+</code></pre></div></div>
+
+<h6 id="add-a-new-entity">Add a new entity</h6>
+
+<div class="language-ts highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">addEntity</span> <span class="o">=</span> <span class="k">await</span> <span class="nc">AddEntity</span><span class="p">({</span>
+    <span class="na">payer</span><span class="p">:</span> <span class="nx">provider</span><span class="p">.</span><span class="nx">wallet</span><span class="p">.</span><span class="nx">publicKey</span><span class="p">,</span>
+    <span class="na">world</span><span class="p">:</span> <span class="nx">initNewWorld</span><span class="p">.</span><span class="nx">worldPda</span><span class="p">,</span>
+    <span class="na">connection</span><span class="p">:</span> <span class="nx">provider</span><span class="p">.</span><span class="nx">connection</span><span class="p">,</span>
+<span class="p">});</span>
+<span class="k">await</span> <span class="nx">provider</span><span class="p">.</span><span class="nf">sendAndConfirm</span><span class="p">(</span><span class="nx">addEntity</span><span class="p">.</span><span class="nx">transaction</span><span class="p">);</span>
+</code></pre></div></div>
+
+<h5 id="attach-the-position-component-to-the-the-entity">Attach the Position component to the the entity</h5>
+
+<div class="language-ts highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">initComponent</span> <span class="o">=</span> <span class="k">await</span> <span class="nc">InitializeComponent</span><span class="p">({</span>
+    <span class="na">payer</span><span class="p">:</span> <span class="nx">provider</span><span class="p">.</span><span class="nx">wallet</span><span class="p">.</span><span class="nx">publicKey</span><span class="p">,</span>
+    <span class="na">entity</span><span class="p">:</span> <span class="nx">addEntity</span><span class="p">.</span><span class="nx">entityPda</span><span class="p">,</span>
+    <span class="na">componentId</span><span class="p">:</span> <span class="nx">positionComponent</span><span class="p">.</span><span class="nx">programId</span><span class="p">,</span>
+<span class="p">});</span>
+<span class="k">await</span> <span class="nx">provider</span><span class="p">.</span><span class="nf">sendAndConfirm</span><span class="p">(</span><span class="nx">initComponent</span><span class="p">.</span><span class="nx">transaction</span><span class="p">);</span>
+</code></pre></div></div>
+
+<h5 id="execute-the-movement-system-on-the-position-component">Execute the movement system on the position Component</h5>
+
+<div class="language-ts highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">applySystem</span> <span class="o">=</span> <span class="k">await</span> <span class="nc">ApplySystem</span><span class="p">({</span>
+    <span class="na">authority</span><span class="p">:</span> <span class="nx">provider</span><span class="p">.</span><span class="nx">wallet</span><span class="p">.</span><span class="nx">publicKey</span><span class="p">,</span>
+    <span class="na">system</span><span class="p">:</span> <span class="nx">systemMovement</span><span class="p">.</span><span class="nx">programId</span><span class="p">,</span>
+    <span class="na">entity</span><span class="p">:</span> <span class="nx">addEntity</span><span class="p">.</span><span class="nx">entityPda</span><span class="p">,</span>
+    <span class="na">components</span><span class="p">:</span> <span class="p">[</span><span class="nx">positionComponent</span><span class="p">.</span><span class="nx">programId</span><span class="p">],</span>
+<span class="p">});</span>
+<span class="kd">const</span> <span class="nx">tx</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">anchor</span><span class="p">.</span><span class="nx">web3</span><span class="p">.</span><span class="nc">Transaction</span><span class="p">().</span><span class="nf">add</span><span class="p">(</span><span class="nx">applySystemIx</span><span class="p">);</span>
+<span class="k">await</span> <span class="nx">provider</span><span class="p">.</span><span class="nf">sendAndConfirm</span><span class="p">(</span><span class="nx">applySystem</span><span class="p">.</span><span class="nx">transaction</span><span class="p">);</span>
+</code></pre></div></div>
+
+<p>In this simple example we have created an entity Player that holds a Position component with x,y,z coordinates. We can execute the movement system to change its state.
+Here’s the best part. By defining your game data structure with the BOLT ECS, you’ll not only be able to reuse existing systems and components, but you can easily allow for mods or extensions of your game. 
+Let’s think of a slightly more sophisticated movement dynamics, with a Velocity component that alters the position defined as:</p>
+
+<div class="language-rust highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">use</span> <span class="nn">bolt_lang</span><span class="p">::</span><span class="o">*</span><span class="p">;</span>
+
+<span class="nd">declare_id!</span><span class="p">(</span><span class="s">"CbHEFbSQdRN4Wnoby9r16umnJ1zWbULBHg4yqzGQonU1"</span><span class="p">);</span>
+
+<span class="nd">#[component]</span>
+<span class="nd">#[derive(Copy)]</span>
+<span class="k">pub</span> <span class="k">struct</span> <span class="n">Velocity</span> <span class="p">{</span>
+    <span class="k">pub</span> <span class="n">x</span><span class="p">:</span> <span class="nb">i64</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>Someone might want to introduce a new power-up for faster movement. They could do this simply by adding a new system that acts on the Position component using Velocity</p>
+
+<div class="language-rust highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nd">#[system]</span>
+<span class="k">pub</span> <span class="k">mod</span> <span class="n">system_apply_velocity</span> <span class="p">{</span>
+
+    <span class="k">pub</span> <span class="k">fn</span> <span class="nf">execute</span><span class="p">(</span><span class="n">ctx</span><span class="p">:</span> <span class="n">Context</span><span class="o">&lt;</span><span class="n">Components</span><span class="o">&gt;</span><span class="p">,</span> <span class="n">_args</span><span class="p">:</span> <span class="nb">Vec</span><span class="o">&lt;</span><span class="nb">u8</span><span class="o">&gt;</span><span class="p">)</span> <span class="k">-&gt;</span> <span class="nb">Result</span><span class="o">&lt;</span><span class="n">Components</span><span class="o">&gt;</span> <span class="p">{</span>
+        <span class="n">ctx</span><span class="py">.accounts.position.x</span> <span class="o">+=</span> <span class="n">ctx</span><span class="py">.accounts.velocity.x</span><span class="p">;</span>
+        <span class="nf">Ok</span><span class="p">(</span><span class="n">ctx</span><span class="py">.accounts</span><span class="p">)</span>
+    <span class="p">}</span>
+
+    <span class="nd">#[system_input]</span>
+    <span class="k">pub</span> <span class="k">struct</span> <span class="n">Components</span> <span class="p">{</span>
+        <span class="k">pub</span> <span class="n">position</span><span class="p">:</span> <span class="n">Position</span><span class="p">,</span>
+        <span class="k">pub</span> <span class="n">velocity</span><span class="p">:</span> <span class="n">Velocity</span><span class="p">,</span>	
+    <span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div></div>
+<p>Notice how simple this snippet of code is. This new system takes as inputs the Position and Velocity components, and defines the logic of the power-up. There is no notion of Solana accounts or CPI - the proxy <a href="https://github.com/magicblock-labs/bolt/tree/main/programs/world">World program</a> is taking care of everything here.</p>
+
+<p>With a few lines of code and barely any blockchain knowledge, we have just introduced a new game behavior!</p>
+
+<h3 id="summing-up">Summing up</h3>
+
+<p>BOLT leverages an ECS pattern to enable game developers to create highly modular, efficient and composable games. Entities serve as containers for components, raw data structure, allowing for dynamic customization without altering the underlying codebase. Systems interact with these components, infusing logic and behavior into the game entities. This separation of concerns not only simplifies the development process, but makes game logic more reusable and enhances the ability to extend and modify games post-launch, in a permissionless fashion.</p>
+
+<p>We can’t wait to see the mechanics that will emerge out of this framework.</p>
+
+<p>Start building with BOLT <a href="https://docs.magicblock.gg/BOLT/getting_started/installation">here</a> and share your feedback with our community on <a href="https://discord.com/invite/MBkdC3gxcv">Discord</a>!</p>]]></content><author><name>Magicblock</name></author><category term="Infrastructure" /><category term="featured" /><summary type="html"><![CDATA[The V0.1 of BOLT is live. BOLT is an onchain framework that simplifies the development of games that are permissionless, composable and can live forever on the blockchain. The design of BOLT includes an SVM-compatible acceleration layer to bring the performance of FOC games on par with traditional multiplayer game servers, without compromising the composability of Solana’s global state. In this early release we are going through the BOLT CLI and Entity Component System (ECS), addressing the recents updates and showcasing how to set up a simple onchain game on Solana. ✨]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.magicblock.gg/assets/images/bolt.png" /><media:content medium="image" url="https://blog.magicblock.gg/assets/images/bolt.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
