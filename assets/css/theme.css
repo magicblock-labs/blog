@@ -674,14 +674,13 @@ article blockquote {
 	position:relative;
 }
 article blockquote:before {
-	content:"“";
-	font-family:Georgia;
-	font-size:8rem;
-	margin:-1rem 2rem 0 -3.9rem;
-	position:absolute;
-	opacity:1;
-	float:left;
-	line-height:1;
+	content: "";
+	background: #b9babd;
+	border-radius: 8px;
+	width: 4px;
+	display: block;
+	position: absolute;
+	inset: 0;
 }
 article:first-letter {
 	float:left;

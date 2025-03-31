@@ -33,14 +33,14 @@ Colosseum gave him the structure to focus, the pressure to ship, and the right a
 
 Winning a hackathon isn't just about building something cool—it's about presenting a technically sound, clearly differentiated project with long-term potential.
 
-For Supersize, the key factors were:
+## For Supersize, the key factors were:
 - ✅ **A working prototype** – Even though it wasn't perfect, it was live, interactive, and showed the core mechanics.
 - ✅ **Clear innovation** – It wasn't just a game; it was one of Solana's first fully on-chain, real-money multiplayer games.
-- ✅ **Strong storytelling** – Lewis backed his technical execution with a clear thesis on why fully on-chain gaming mattered and how it could scale.
+- ✅ **Strong storytelling** – Lewis backed his technical execution with a [clear thesis](https://www.chaincatcher.com/en/article/2146119) on why fully on-chain gaming mattered and how it could scale.
 
 > "We won the gaming track… I think it was a mix of proving our engineering capability, having a real-time fully on-chain game that worked, and having a clear thesis on how we wanted to monetize these casual games."
 
-Lewis' Tips for Hackathon Success
+## Lewis' Tips for Hackathon Success
 
 Having been through multiple hackathons, Lewis has a few key takeaways for anyone thinking about joining one:
 
